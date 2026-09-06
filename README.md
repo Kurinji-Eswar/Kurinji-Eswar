@@ -1,194 +1,568 @@
 <div align="center">
 
-<p align="center">
-  <i>E S T . &nbsp; 2 0 2 4 &nbsp; · &nbsp; S R M I S T &nbsp; C H E N N A I</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3B2C,100:1A2419&height=140&section=header"/>
 
-# K U R I N J I &nbsp; E S W A R &nbsp; J &nbsp; A
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=32&duration=3200&pause=1200&color=D4C199&center=true&vCenter=true&width=700&height=60&lines=Kurinji+Eswar+J+A" alt="Name"/>
 
-<p align="center">
-  <b>Computer Science & Engineering &nbsp;·&nbsp; Applied Intelligence &nbsp;·&nbsp; Research</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=8C7355" width="40%"/>
-</p>
-
-> *“யாதும் ஊரே யாவரும் கேளிர்”*  
-> <small>— Kaniyan Poongundranar, <i>Purananuru</i><br>
-> (To us all towns are our own, everyone our kin.)</small>
+<img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=400&size=15&duration=3200&pause=1200&color=8C9C87&center=true&vCenter=true&width=700&height=30&lines=Applied+Artificial+Intelligence+%C2%B7+Research+%C2%B7+Engineering" alt="Tagline"/>
 
 <br>
 
-[Curriculum Vitae](https://github.com/Kurinji-Eswar) &nbsp;·&nbsp;
-[LinkedIn](https://linkedin.com/in/kurinji-eswar) &nbsp;·&nbsp;
-[Kuralara WebFlux](https://kuralarawebflux.com) &nbsp;·&nbsp;
-[Correspondence](mailto:kurinjieswarofficial@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4C199,100:8C9C87&height=2&width=500"/>
 
 <br>
+
+<table>
+<tr>
+<td align="center" style="padding:24px;">
+
+<i>“யாதும் ஊரே யாவரும் கேளிர்”</i>
+
+<sub>Every place is our home; everyone is our kin.</sub>
+
+<br>
+
+<sub>— Kaniyan Poongundranar, <i>Purananuru</i></sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://github.com/Kurinji-Eswar">
+<img src="https://img.shields.io/badge/GITHUB-1A2419?style=for-the-badge&logoColor=D4C199&labelColor=1A2419&color=1A2419"/>
+</a>
+<a href="https://linkedin.com/in/kurinji-eswar">
+<img src="https://img.shields.io/badge/LINKEDIN-1A2419?style=for-the-badge&logoColor=D4C199&labelColor=1A2419&color=1A2419"/>
+</a>
+<a href="https://kuralarawebflux.com">
+<img src="https://img.shields.io/badge/KURALARA_WEBFLUX-1A2419?style=for-the-badge&logoColor=D4C199&labelColor=1A2419&color=1A2419"/>
+</a>
+<a href="https://x.com/Kurinji_Offl">
+<img src="https://img.shields.io/badge/X-1A2419?style=for-the-badge&logoColor=D4C199&labelColor=1A2419&color=1A2419"/>
+</a>
+
+<br><br>
+
+<sub><i>SRM Institute of Science &amp; Technology · B.Tech CSE · Class of 2028 · CGPA 8.44</i></sub>
+
 </div>
 
----
+<br>
 
-### I. PROSPECTUS
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4C199,100:8C9C87&height=1&width=100%25"/>
+
+<br>
+
+## &nbsp;The Person Behind the Code
 
 <table width="100%">
 <tr>
-<td width="65%" valign="top">
+<td width="62%" valign="top">
 
-I work across the convergence of **applied machine intelligence, mathematical modeling, and rigorous systems engineering**. 
+I work at the intersection of **artificial intelligence, research, and engineering** — with particular devotion to deep learning, computer vision, medical AI, edge intelligence, and time-series systems.
 
-Rather than segregating theoretical discovery from production engineering, I pursue the unified cycle:
+Rather than treating research and development as separate pursuits, I prefer to carry an idea through its entire arc:
 
-$$\text{Phenomenon} \longrightarrow \text{Formal Investigation} \longrightarrow \text{Empirical System}$$
+<div align="center">
 
-My foundational objective is deliberate: *to construct computationally sound artifacts of genuine utility.*
+**Problem&nbsp; → &nbsp;Investigation&nbsp; → &nbsp;Experiment&nbsp; → &nbsp;Evaluation&nbsp; → &nbsp;System**
+
+</div>
+
+The governing principle is unadorned:
+
+> *Build technology that is technically interesting, and genuinely useful.*
 
 </td>
-<td width="35%" valign="top">
+<td width="38%" valign="top">
 
-**ACADEMIC RECORD**
+<div align="center">
 
-* **Discipline:** B.Tech, Computer Science  
-* **Institution:** SRM Institute of Science & Technology  
-* **Conferment:** Class of 2028  
-* **Cumulative GPA:** 8.44 / 10.0  
-* **Orientation:** Theory $\times$ Implementation
+<sub>CURRENTLY</sub>
+
+**Education**
+B.Tech., Computer Science &amp; Engineering
+
+**Institute**
+SRMIST
+
+**Graduation**
+2028
+
+**CGPA**
+8.44 / 10.00
+
+**Domain**
+Applied AI
+
+**Discipline**
+Research &amp; Engineering
+
+</div>
 
 </td>
 </tr>
 </table>
 
-<br>
-
----
-
-### II. PRIMARY INVESTIGATIONS
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-#### **Power Grid Inertia Estimation**
-*National Institute of Technology Puducherry*  
-*Research Scholar Intern &nbsp;·&nbsp; Dec 2025*
-
-Investigation into synthetic inertia estimation and rotational dynamics across low-inertia grids via frequency transient series.
-
-* **Methodology:** Physics-informed formulation via Swing Equation, Rate of Change of Frequency ($\text{RoCoF}$), Savitzky–Golay digital filtering.
-* **Architecture:** Bidirectional recurrent topologies (LSTM / GRU / BiLSTM) optimized for multi-step non-stationary forecasting.
-
-</td>
-<td width="50%" valign="top">
-
-#### **Wearable Health Intelligence**
-*Independent Scientific Inquiry*  
-*Completed Manuscript &nbsp;·&nbsp; 2025–2026*
-
-A principled framework for non-invasive continuous physiological monitoring and prospective systemic risk stratification.
-
-* **Methodology:** Edge-cloud collaborative inference, federated parameter aggregation, explainable post-hoc attributions (XAI).
-* **Architecture:** Multi-modal sensor fusion across temporal bio-signals for sub-clinical trend divergence.
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-### III. SELECTED ENGINEERING ARTIFACTS
-
-#### **01. Vision-Guided Adaptive Laser Metrology**
-*Patent Filed &nbsp;·&nbsp; Embedded Vision & Industrial Automation*
-
-An automated railway infrastructure inspection system integrating real-time semantic surface segmentation with closed-loop physical actuation```markdown
 <div align="center">
 
 <br>
 
-# 𝔎𝔘ℜℑ𝔑𝔍ℑ · 𝔈𝔖𝔚𝔄ℜ · 𝔍 · 𝔄
+<sub>RESEARCH DOMAINS</sub>
 
-*Scholar · Applied Artificial Intelligence · Systems Engineering*
+<br><br>
 
-<br>
+`Deep Learning`&nbsp;&nbsp;&nbsp;`Computer Vision`&nbsp;&nbsp;&nbsp;`Medical AI`
 
-> *“யாதும் ஊரே யாவரும் கேளிர்”*  
-> *Every domain our home; every thinker our kin.*  
-> — **Kaniyan Poongundranar**, *Purananuru*
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/ARCHIVE-GitHub-1A1A1A?style=flat-square&logo=github&logoColor=D4AF37)](https://github.com/Kurinji-Eswar)
-[![LinkedIn](https://img.shields.io/badge/CORRESPONDENCE-LinkedIn-1A1A1A?style=flat-square&logo=linkedin&logoColor=D4AF37)](https://linkedin.com/in/kurinji-eswar)
-[![Dispatches](https://img.shields.io/badge/VENTURE-Kuralara_WebFlux-1A1A1A?style=flat-square&logo=safari&logoColor=D4AF37)](https://kuralarawebflux.com)
-[![Dispatch](https://img.shields.io/badge/DISPATCH-kurinjieswarofficial@gmail.com-1A1A1A?style=flat-square&logo=gmail&logoColor=D4AF37)](mailto:kurinjieswarofficial@gmail.com)
-
-<br>
-
-*SRM Institute of Science & Technology · B.Tech Computer Science & Engineering · Class of 2028 · CGPA 8.44*
-
-<br>
-
----
+`Edge Intelligence`&nbsp;&nbsp;&nbsp;`Time-Series`&nbsp;&nbsp;&nbsp;`Signal Processing`
 
 </div>
 
 <br>
 
-### I. DISPOSITION & ACADEMIC INQUIRY
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4C199,100:8C9C87&height=1&width=100%25"/>
 
-I operate at the convergence of machine intelligence, formal research, and robust systems craft. My investigations span deep learning, computer vision, clinical AI, edge intelligence, and dynamical time-series systems.
-
-Rather than bifurcating scholarly theory from engineering rigor, I observe the complete empirical trajectory:
-
-$$\text{First Principles} \longrightarrow \text{Rigorous Experimentation} \longrightarrow \text{Defensible Architecture}$$
-
-My philosophy is rooted in classical discipline: build systems of technical sophistication, structural permanence, and societal utility.
+<div align="center">
 
 <br>
 
-| ACADEMIC DOSSIER | SPECIFICATION |
-| :--- | :--- |
-| **Institutional Affiliation** | SRM Institute of Science & Technology |
-| **Field of Study** | Computer Science & Engineering |
-| **Scholastic Standing** | 8.44 / 10.00 Cumulative Grade Point Average |
-| **Conferral Date** | Summer 2028 |
-| **Primary Domain** | Applied Artificial Intelligence & Edge Systems |
-| **Operating Modality** | Scholarly Research × Applied Engineering |
+## The Research Laboratory
+
+<sub><i>Selected investigations</i></sub>
+
+</div>
 
 <br>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### Power Grid Intelligence
+**NIT Puducherry · Research Intern** &nbsp;·&nbsp; <sub>December 2025</sub>
+
+A study in **power-grid inertia prediction and estimation**, drawn from frequency time-series data.
+
+**Methods** &nbsp;`ROCOF` `Savitzky–Golay` `Signal Processing` `LSTM · GRU · BiLSTM` `Multi-Step Prediction` `Swing Equation`
+
+**Direction** — *Physics-guided estimation, married to data-driven deep learning.*
+
+</td>
+<td width="50%" valign="top">
+
+### Wearable Health Intelligence
+**Independent Research** &nbsp;·&nbsp; <sub>Manuscript Complete</sub>
+
+A framework for continuous physiological monitoring and health-risk assessment.
+
+**Investigated** &nbsp;`Trend Prediction` `Early Warning` `Edge–Cloud` `Personalization` `Federated Learning` `Explainable AI` `Multimodal Sensing`
+
+**Direction** — *Continuous monitoring, in service of intelligent risk assessment.*
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4C199,100:8C9C87&height=1&width=100%25"/>
+
+<div align="center">
+
+<br>
+
+## Featured Systems
+
+<sub><i>Selected technical work</i></sub>
+
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+### I. &nbsp;Vision-Guided Laser QR Encoding
+<sub>Patent Filed</sub>
+
+A railway inspection system uniting **computer vision, semantic segmentation, and embedded physical control**.
+
+```
+Image
+  │
+  ▼
+SegFormer-B0
+  │
+  ▼
+Rust / Metal Segmentation
+  │
+  ▼
+Adaptive Clean-Zone
+  │
+  ▼
+Coordinate Projection
+  │
+  ▼
+ESP32 Pan-Tilt
+  │
+  ▼
+Laser Target
+```
+
+</td>
+<td width="40%" valign="top">
+
+<div align="center">
+
+<sub>PERFORMANCE</sub>
+
+<br>
+
+**0.78**
+<sub>Clear-Metal IoU</sub>
+
+**0.74**
+<sub>Rust IoU</sub>
+
+**≈2.1 mm**
+<sub>Targeting Error @ 35 cm</sub>
+
+**112**
+<sub>Dataset Images</sub>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### II. &nbsp;Tuberculosis Detection
+<sub>Medical AI · MobileNetV2</sub>
+
+Automated pulmonary TB detection from chest X-ray imagery, with interpretable analysis at its core.
+
+| | |
+|:--|--:|
+| Accuracy | **94.2%** |
+| Sensitivity | **92.8%** |
+| AUC | **0.967** |
+
+**Interpretability** — Cavity detection · Pleural-effusion assessment · Anatomical-zone analysis
+
+</td>
+<td width="50%" valign="top">
+
+### III. &nbsp;NovaShield AI
+<sub>Patent Filed</sub>
+
+An autonomous cybersecurity framework for anomalous system and log-activity detection.
+
+**Core Ideas** &nbsp;`AI Threat Detection` `Anomaly Detection` `Automated Response` `Zero Trust` `Cloud Security`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4C199,100:8C9C87&height=1&width=100%25"/>
+
+<div align="center">
+
+<br>
+
+## Public Deployment
+
+### WelfareSync
+
+*Multi-Tenant Resident Welfare Analytics &amp; Monitoring*
+
+<sub>`Node.js` · `PostgreSQL` · `MongoDB` · `Redis`</sub>
+
+<sub><i>Multi-Tenant Architecture · REST APIs · Event-Driven Architecture</i></sub>
+
+<br>
+
+<a href="https://github.com/Kurinji-Eswar/WelfareSync">
+<img src="https://img.shields.io/badge/OPEN_PROJECT-1A2419?style=for-the-badge&logoColor=D4C199&labelColor=1A2419&color=1A2419"/>
+</a>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4C199,100:8C9C87&height=1&width=100%25"/>
+
+<div align="center">
+
+<br>
+
+## Technology Stack
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,cpp,java,js,nodejs,postgres,mongodb,mysql,redis,docker,aws,git,github&perline=9&theme=dark"/>
+
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
+
+<sub>INTELLIGENCE</sub>
+
+Deep Learning
+Computer Vision
+CNNs
+Semantic Segmentation
+Explainable AI
+Time-Series Analysis
+Signal Processing
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<sub>DEVELOPMENT</sub>
+
+Python
+C++
+Java
+JavaScript
+SQL
+Flask
+Node.js
+REST APIs
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<sub>INFRASTRUCTURE</sub>
+
+PostgreSQL
+MongoDB
+MySQL
+SQLite
+Redis
+Docker
+AWS
+ESP32
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4C199,100:8C9C87&height=1&width=100%25"/>
+
+<div align="center">
+
+<br>
+
+## Experience
+
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**NIT Puducherry**
+*Research Intern* — Power Grid Inertia Prediction &amp; Estimation
+<sub>December 2025</sub>
 
 ---
 
-### II. SELECTED INVESTIGATIONS
-
-*Rigorous inquiries across physical systems and continuous monitoring.*
-
-<br>
-
-**1. Dynamics of Power-Grid Inertia**  
-*National Institute of Technology Puducherry · Research Fellow (Dec 2025)*  
-* Frequency time-series estimation marrying the classical **Swing Equation** with sequence architectures (**LSTM**, **GRU**, **BiLSTM**).
-* Real-time derivation of Rate of Change of Frequency (**RoCoF**) filtered via regularized Savitzky–Golay polynomials to stabilize multi-step prediction under synthetic load shifts.
-
-**2. Wearable Continuous Clinical Intelligence**  
-*Independent Scholarly Research · Manuscript Prepared*  
-* A distributed, edge-to-cloud diagnostic framework for ambient physiological tracking and longitudinal risk estimation.
-* Incorporates **Federated Optimization**, non-linear trend projection, multimodal biosensing, and explainable neural representations.
-
-<br>
+**Axcentra**
+*Full Stack Web Development Intern* — MERN · REST APIs · Application Engineering
+<sub>December 2025 — January 2026</sub>
 
 ---
 
-### III. ARCHITECTURAL PATENTS & FEATURED WORKS
+**Prodigy InfoTech**
+*Data Science Intern* — Python · Pandas · Scikit-learn
+<sub>June 2025 — July 2025</sub>
 
-*Select engineered artifacts and intellectual property.*
+</td>
+<td width="50%" valign="top">
+
+**EduSkills Foundation**
+*Python Full Stack Intern* — Python · Databases · Software Development
+<sub>January 2025 — March 2025</sub>
+
+---
+
+**Prodigy InfoTech**
+*Web Development Intern* — HTML · CSS · JavaScript
+<sub>January 2025 — February 2025</sub>
+
+</td>
+</tr>
+</table>
 
 <br>
 
-#### 01. Vision-Guided Adaptive Laser QR Encoding
-*Patented Railway Inspection Architecture*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4C199,100:8C9C87&height=1&width=100%25"/>
 
-A continuous-inspection system interfacing high-resolution spatial vision with physical target actuation.
+<div align="center">
+
+<br>
+
+## Leadership
+
+</div>
+
+<br>
+
+| Position | Organization | Period |
+|:--|:--|:--:|
+| **Technical &amp; Research Lead** | AAAI Student Chapter, SRMIST | 2026 — Present |
+| **Student Coordinator** | Student Editorial Board, CSE | 2026 — Present |
+| **Global Contributor** | Open Source Connect | 2025 — Present |
+| **Co-Founder** | Kuralara WebFlux | 2025 — Present |
+| **Accounts Coordinator** | Entrepreneurship Development Cell | 2024 — 2025 |
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4C199,100:8C9C87&height=1&width=100%25"/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+## Certifications
+
+</div>
+
+<br>
+
+**Python Programming — Beginner to Advanced**
+<sub>GUVI / HCL · Google for Education Partner</sub>
+
+**Python Developer Certification**
+<sub>freeCodeCamp</sub>
+
+**Foundations of Positive Psychology**
+<sub>Five-Course Specialization</sub>
+
+**Agentic AI Workshop**
+<sub>KAMALA AI Program</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+## Technical Activities
+
+</div>
+
+<br>
+
+**AI No-Code Connect**
+<sub>Varnam '26</sub>
+
+**Slide Pitch / Paper Presentation**
+<sub>Varnam '26</sub>
+
+**Supercharging CRM with AI**
+<sub>Varnam '26</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4C199,100:8C9C87&height=1&width=100%25"/>
+
+<div align="center">
+
+<br>
+
+## Distinctions
+
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+
+**Kalai Ilamani Award**
+<sub>Government of Tamil Nadu · Bharatanatyam</sub>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+**State-Level Kala Utsav**
+<sub>Third Place · Bharatanatyam</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<sub><i>Multiple medals in Bharatanatyam, Yoga, and Kung Fu</i></sub>
+
+<br><br>
+
+## Beyond Computing
+
+<sub><i>Classical practice has shaped the same qualities I bring to engineering —<br>precision, patience, consistency, and discipline.</i></sub>
+
+<br>
+
+**Bharatanatyam** &nbsp;·&nbsp; **Yoga** &nbsp;·&nbsp; **Kung Fu**
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4C199,100:8C9C87&height=2&width=500"/>
+
+<br>
+
+<div align="center">
+
+### Research with Purpose. Engineering with Discipline.
+
+<sub><i>Deep Learning · Computer Vision · Medical AI · Edge Intelligence</i></sub>
+
+<br>
+
+### அறிவு &nbsp;·&nbsp; ஆய்வு &nbsp;·&nbsp; ஆக்கம்
+<sub><i>Knowledge · Research · Creation</i></sub>
+
+<br><br>
+
+<a href="https://github.com/Kurinji-Eswar">GitHub</a> &nbsp;·&nbsp;
+<a href="https://linkedin.com/in/kurinji-eswar">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://kuralarawebflux.com">Kuralara WebFlux</a> &nbsp;·&nbsp;
+<a href="https://x.com/Kurinji_Offl">X</a> &nbsp;·&nbsp;
+<a href="mailto:kurinjieswarofficial@gmail.com">Email</a>
+
+<br><br>
+
+<sub>© Kurinji Eswar J A</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2419,100:2C3B2C&height=100&section=footer"/>
