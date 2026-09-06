@@ -1,179 +1,115 @@
 <div align="center">
 
-<!-- WAYNETECH HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,55:101010,100:242424&text=KURINJI%20ESWAR&fontSize=48&fontColor=F5C518&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20RESEARCH%20%7C%20ENGINEERING&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:161616,100:f5c518&height=220&section=header&text=WAYNETECH&fontSize=65&fontColor=f5c518&animation=fadeIn&fontAlignY=35&desc=R%26D%20DIVISION%20%2F%2F%20BATCOMPUTER%20ONLINE&descAlignY=58&descSize=18" width="100%"/>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=F5C518&center=true&vCenter=true&width=850&lines=SYSTEM+ONLINE+%7C%7C+RESEARCH+MODE+ACTIVE;AI+%2F+ML+RESEARCH+ENGINEER;DEEP+LEARNING+%7C%7C+COMPUTER+VISION;MEDICAL+AI+%7C%7C+EDGE+AI;TIME-SERIES+INTELLIGENCE+%7C%7C+SIGNAL+PROCESSING;BUILDING+INTELLIGENT+SYSTEMS+FOR+REAL-WORLD+PROBLEMS" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=F5C518&center=true&vCenter=true&width=850&lines=Building+intelligent+systems+for+real-world+problems.;Deep+Learning+%C2%B7+Computer+Vision+%C2%B7+Medical+AI;Time-Series+Intelligence+%C2%B7+Edge+AI+%C2%B7+Signal+Processing;Research+%2B+Engineering+%2B+Experimentation" alt="Research focus"/>
 
-<br/>
+<br><br>
 
 <a href="https://github.com/Kurinji-Eswar">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=ffffff"/>
 </a>
+&nbsp;
 <a href="https://linkedin.com/in/kurinji-eswar">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
 </a>
+&nbsp;
 <a href="https://kuralarawebflux.com">
-<img src="https://img.shields.io/badge/Kuralara_WebFlux-000000?style=for-the-badge&logo=vercel&logoColor=F5C518"/>
+<img src="https://img.shields.io/badge/Kuralara%20WebFlux-111111?style=flat-square&logo=googlechrome&logoColor=F5C518"/>
 </a>
+&nbsp;
 <a href="https://x.com/Kurinji_Offl">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=ffffff"/>
 </a>
+&nbsp;
 <a href="mailto:kurinjieswarofficial@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=EA4335"/>
 </a>
 
 </div>
 
+<br>
+
 ---
 
-# `// SYSTEM PROFILE`
+## `WAYNETECH / RESEARCH DIVISION`
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                    WAYNETECH // R&D                         │
-├──────────────────────────────────────────────────────────────┤
-│ SUBJECT       : KURINJI ESWAR J A                           │
-│ DESIGNATION   : AI / ML RESEARCH ENGINEER                   │
-│ INSTITUTION   : SRM INSTITUTE OF SCIENCE & TECHNOLOGY       │
-│ PROGRAM       : B.Tech Computer Science & Engineering       │
-│ GRADUATION    : 2028                                         │
-│ CGPA          : 8.44 / 10                                    │
-│ PRIMARY DOMAIN: APPLIED ARTIFICIAL INTELLIGENCE              │
-│ RESEARCH MODE : EXPERIMENTAL                                 │
-│ STATUS        : BUILDING                                     │
-└──────────────────────────────────────────────────────────────┘
-```
+> **Computer Science & Engineering undergraduate focused on applied AI, deep learning and research-oriented engineering.**
+
+I work at the intersection of **machine learning, computer vision, signal processing and intelligent systems** — turning research ideas into experimental prototypes and deployable engineering solutions.
+
+Currently pursuing a **B.Tech. in Computer Science & Engineering at SRM Institute of Science and Technology**, with a research focus spanning **Deep Learning, Computer Vision, Medical AI, Edge AI and Time-Series Analysis**.
+
+<br>
 
 <div align="center">
 
-### `// RESEARCH DIRECTIVE`
+### `01`   RESEARCH PROFILE
 
-**Programming + Mathematics + Statistics + Experimentation + Engineering**
-
-> Developing reliable AI systems for real-world challenges through research-driven engineering.
+|                   |                                        |
+| :---------------- | :------------------------------------- |
+| **Education**     | B.Tech. Computer Science & Engineering |
+| **Institution**   | SRM Institute of Science & Technology  |
+| **Graduation**    | 2028                                   |
+| **CGPA**          | 8.44 / 10                              |
+| **Primary Focus** | Applied Artificial Intelligence        |
+| **Research Mode** | Experimental & Engineering-driven      |
 
 </div>
 
 ---
 
-# `// PRIMARY SYSTEMS`
+## `02 / CORE RESEARCH`
 
-<table>
-<tr>
-<td align="center" width="20%">
+<div align="center">
 
-### 🧠
+<img src="https://img.shields.io/badge/DEEP%20LEARNING-0D0D0D?style=for-the-badge&logoColor=F5C518"/>
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-0D0D0D?style=for-the-badge&logoColor=F5C518"/>
+<img src="https://img.shields.io/badge/MEDICAL%20AI-0D0D0D?style=for-the-badge&logoColor=F5C518"/>
+<img src="https://img.shields.io/badge/EDGE%20AI-0D0D0D?style=for-the-badge&logoColor=F5C518"/>
+<img src="https://img.shields.io/badge/TIME--SERIES%20AI-0D0D0D?style=for-the-badge&logoColor=F5C518"/>
 
-**DEEP LEARNING**
+<br><br>
 
-Neural Networks
-CNNs
-LSTM / GRU
-Representation Learning
+`Signal Processing`   `Explainable AI`   `Semantic Segmentation`
+`LSTM / GRU / BiLSTM`   `CNNs`   `Feature Engineering`
+`Multimodal Sensing`   `Federated Learning`   `Edge Deployment`
 
-</td>
-
-<td align="center" width="20%">
-
-### 👁️
-
-**COMPUTER VISION**
-
-Segmentation
-Image Analysis
-OpenCV
-Vision-Guided Systems
-
-</td>
-
-<td align="center" width="20%">
-
-### 🏥
-
-**MEDICAL AI**
-
-Disease Detection
-XAI
-Health Monitoring
-Risk Prediction
-
-</td>
-
-<td align="center" width="20%">
-
-### ⚡
-
-**EDGE AI**
-
-Embedded AI
-ESP32
-Edge Deployment
-Sensor Intelligence
-
-</td>
-
-<td align="center" width="20%">
-
-### 📈
-
-**TIME-SERIES AI**
-
-Signal Processing
-ROCOF
-Forecasting
-Power-System Intelligence
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-# `// R&D LAB`
+## `03 / RESEARCH LAB`
 
-## ⚡ Power Grid Intelligence — NIT Puducherry
+### ⚡ Power Grid Inertia Prediction & Estimation
 
-**Research Intern | December 2025**
+**Research Intern — NIT Puducherry · December 2025**
 
-Individual research on **power-grid inertia prediction and estimation** using frequency time-series data.
+Individual research focused on estimating and predicting power-grid inertia from frequency time-series data.
 
-```text
-SIGNAL PROCESSING
-       │
-       ├── ROCOF Extraction
-       ├── Savitzky–Golay Filtering
-       └── Frequency Time-Series Analysis
-                │
-                ▼
-        DEEP LEARNING MODELS
-                │
-        ┌───────┼────────┐
-        ▼       ▼        ▼
-      LSTM     GRU     BiLSTM
-        │       │        │
-        └───────┼────────┘
-                ▼
-       MULTI-STEP INERTIA
-           PREDICTION
-                │
-                ▼
-      PHYSICS-GUIDED ANALYSIS
-          Swing Equation
-```
+**Work included:**
 
----
+* ROCOF extraction and frequency signal analysis
+* Savitzky–Golay filtering and signal-processing techniques
+* LSTM, GRU and BiLSTM architectures
+* Multi-step inertia prediction
+* Physics-guided estimation using the Swing Equation
+* Evaluation of data-driven and physics-informed approaches
 
-## 🏥 AI-Enabled Wearable System for Chronic Disease Monitoring
+<br>
 
-**Independent Research | Completed Manuscript**
+### 🏥 AI-Enabled Wearable System for Chronic Disease Monitoring
 
-Research framework focused on:
+**Independent Research · Completed Manuscript**
 
-* Continuous physiological monitoring
-* AI/ML-based abnormal trend prediction
-* Early health-risk warnings
+Designed a research framework for continuous physiological monitoring and health-risk assessment.
+
+**Research directions:**
+
+* Abnormal physiological trend prediction
+* Early-warning systems
 * Edge-cloud collaboration
 * Personalized health intelligence
 * Privacy-preserving learning
@@ -183,346 +119,265 @@ Research framework focused on:
 
 ---
 
-# `// CLASSIFIED R&D`
+## `04 / SELECTED SYSTEMS`
 
-## 🎯 Vision-Guided Laser QR Encoding for Railway Track Components
+### 🎯 Vision-Guided Laser QR Encoding
 
-**Patent Filed**
+**Patent Filed · Computer Vision · Embedded AI**
 
-`Computer Vision` · `Semantic Segmentation` · `Embedded AI`
+A railway inspection prototype combining semantic segmentation with physical laser targeting.
 
-Developed a railway inspection prototype using **SegFormer-B0** for pixel-level rust and clear-metal segmentation.
+**System:**
+`SegFormer-B0` → `Rust / Metal Segmentation` → `ACZL` → `Coordinate Projection` → `ESP32 Pan-Tilt` → `Laser Targeting`
 
-### System Architecture
+**Results**
 
-```text
-CAMERA
-   │
-   ▼
-SEGFORMER-B0
-   │
-   ├── RUST SEGMENTATION
-   │
-   └── CLEAR METAL SEGMENTATION
-              │
-              ▼
-       ACZL ALGORITHM
- Adaptive Clean-Zone Localization
-              │
-              ▼
-      SAFE QR ENCODING AREA
-              │
-              ▼
-     COORDINATE PROJECTION
-              │
-              ▼
-      ESP32 PAN–TILT SYSTEM
-              │
-              ▼
-        LASER TARGETING
-```
+| Metric                |              Result |
+| :-------------------- | ------------------: |
+| Clear-metal IoU       |            **0.78** |
+| Rust IoU              |            **0.74** |
+| Laser targeting error | **~2.1 mm @ 35 cm** |
+| Custom dataset        |      **112 images** |
+
+---
+
+### 🫁 Tuberculosis Detection + XAI
+
+**Medical AI · Deep Learning · Computer Vision**
+
+Developed an automated pulmonary tuberculosis detection system using **MobileNetV2** on chest X-ray images.
 
 **Evaluation**
 
-```text
-Clear Metal IoU       : 0.78
-Rust IoU              : 0.74
-Laser Targeting Error : ~2.1 mm @ 35 cm
-Dataset               : 112 images
-```
+`94.2% Accuracy`   ·   `92.8% Sensitivity`   ·   `0.967 AUC`
+
+The system also explored interpretable analysis through:
+
+* Cavity detection
+* Pleural-effusion assessment
+* Anatomical-zone analysis
+* Flask-based deployment
 
 ---
 
-## 🫁 Tuberculosis Detection System
+### 🛡️ NovaShield AI
 
-**Deep CNNs + Interpretable Machine Learning**
+**Patent Filed · AI Threat Detection · Zero Trust · Cloud Security**
 
-Developed an automated pulmonary TB detection system from chest X-ray images using **MobileNetV2**.
+Designed an AI-driven cybersecurity framework for anomalous system and log-activity detection.
 
-```text
-CHEST X-RAY
-     │
-     ▼
-IMAGE PREPROCESSING
-     │
-     ▼
-MOBILENETV2
-     │
-     ▼
-TB CLASSIFICATION
-     │
-     ├── Cavity Detection
-     ├── Pleural Effusion Analysis
-     └── Anatomical-Zone Analysis
-```
+Research directions included:
 
-### Evaluation
-
-| Metric      |    Result |
-| ----------- | --------: |
-| Accuracy    | **94.2%** |
-| Sensitivity | **92.8%** |
-| AUC         | **0.967** |
-
-Integrated into a **Flask-based application**.
+`Anomaly Detection` · `AI Threat Detection` · `Automated Response` · `Zero Trust` · `Cloud Security`
 
 ---
 
-## 🛡️ NovaShield AI
+## `05 / PUBLIC DEPLOYMENT`
 
-**Patent Filed | Autonomous Cybersecurity Framework**
+<div align="center">
 
-Designed an AI-driven framework for anomalous system and log-activity detection.
-
-```text
-SYSTEM / LOG DATA
-        │
-        ▼
-   AI ANALYSIS
-        │
-        ▼
-ANOMALY DETECTION
-        │
-        ▼
-THREAT CLASSIFICATION
-        │
-        ▼
-AUTOMATED RESPONSE
-        │
-        ▼
-ZERO TRUST SECURITY
-```
-
-Explored AI-based threat detection, automated response, Zero Trust architecture, and cloud-security concepts.
-
----
-
-# `// PUBLIC DEPLOYMENT`
-
-## 🏢 WelfareSync
+### WelfareSync
 
 **Scalable Multi-Tenant Resident Welfare Analytics & Monitoring System**
 
+<br>
+
 <a href="https://github.com/Kurinji-Eswar/WelfareSync">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=F5C518"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-161616?style=for-the-badge&logo=github&logoColor=F5C518"/>
 </a>
 
-```text
-Node.js
-PostgreSQL
-MongoDB
-Redis
-Event-Driven Architecture
-Multi-Tenant Systems
-```
+<br><br>
 
-Built around scalable resident-welfare analytics and monitoring with distributed data and event-driven system concepts.
+<img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=5FA04E"/>
+<img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/Redis-111111?style=flat-square&logo=redis&logoColor=DC382D"/>
+
+<br><br>
+
+Built around **multi-tenant architecture, analytics, distributed data and event-driven system design**.
+
+</div>
 
 ---
 
-# `// TECHNOLOGY ARSENAL`
+## `06 / TECHNOLOGY STACK`
 
-### AI / ML
+### Artificial Intelligence
 
 <p>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=F5C518"/>
-<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
-<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=150458"/>
-<img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=F5C518"/>
+<img src="https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/TensorFlow-111111?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-111111?style=flat-square&logo=scikit-learn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=4DABCF"/>
+<img src="https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=150458"/>
+<img src="https://img.shields.io/badge/OpenCV-111111?style=flat-square&logo=opencv&logoColor=5C3EE8"/>
 </p>
 
-### Programming
+### Engineering
 
 <p>
-<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791"/>
+<img src="https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=cplusplus&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=336791"/>
+<img src="https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=5FA04E"/>
 </p>
 
-### Systems & Engineering
+### Data, Cloud & Edge
 
-```text
-Databases     → PostgreSQL · MongoDB · MySQL · SQLite · Redis
-
-Backend       → Flask · REST APIs · Node.js
-
-Edge          → ESP32 · Edge AI
-
-Cloud         → AWS · Docker
-
-Core CS       → DSA · OOP · Software Engineering
-
-Research     → Signal Processing · Feature Engineering
-               Statistical Analysis · Experimental Evaluation
-```
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Redis-111111?style=flat-square&logo=redis&logoColor=DC382D"/>
+<img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/ESP32-111111?style=flat-square&logo=espressif&logoColor=ffffff"/>
+</p>
 
 ---
 
-# `// FIELD OPERATIONS`
+## `07 / FIELD EXPERIENCE`
 
-| Organization             | Role                              | Period              |
-| ------------------------ | --------------------------------- | ------------------- |
-| **NIT Puducherry**       | Research Intern                   | Dec 2025            |
-| **AXCENTRA**             | Full Stack Web Development Intern | Dec 2025 – Jan 2026 |
-| **Prodigy InfoTech**     | Data Science Intern               | Jun 2025 – Jul 2025 |
-| **EduSkills Foundation** | Python Full Stack Intern          | Jan 2025 – Mar 2025 |
-| **Prodigy InfoTech**     | Web Development Intern            | Jan 2025 – Feb 2025 |
+### Research
 
----
+**NIT Puducherry**
+Research Intern · Power Grid Inertia Prediction & Estimation
+`December 2025`
 
-# `// COMMAND STRUCTURE`
+### Software Engineering
 
-### 🧠 Technical & Research Lead
+**AXCENTRA**
+Full Stack Web Development Intern
+`December 2025 – January 2026`
 
-**AAAI Student Chapter — SRMIST**
-`Mar 2026 – Present`
+**EduSkills Foundation**
+Python Full Stack Intern
+`January 2025 – March 2025`
 
-### 📝 Student Coordinator
+### Data & Machine Learning
 
-**Student Editorial Board — CSE, SRMIST**
-`Jan 2026 – Present`
+**Prodigy InfoTech**
+Data Science Intern
+`June 2025 – July 2025`
 
-### 🌐 Global Contributor
+### Web Development
 
-**Open Source Connect**
-`Dec 2025 – Present`
-
-### 🚀 Co-Founder
-
-**Kuralara WebFlux**
-`Jul 2025 – Present`
-
-### 💼 Accounts Coordinator
-
-**Entrepreneurship Development Cell — SRMIST**
-`Aug 2024 – Aug 2025`
+**Prodigy InfoTech**
+Web Development Intern
+`January 2025 – February 2025`
 
 ---
 
-# `// ACHIEVEMENT ARCHIVE`
+## `08 / LEADERSHIP`
 
-```text
-┌─────────────────────────────────────────────────────────┐
-│ KALAI ILAMANI AWARD                                     │
-│ Government of Tamil Nadu                                │
-│ Bharatanatyam                                           │
-├─────────────────────────────────────────────────────────┤
-│ STATE-LEVEL KALA UTSAV                                  │
-│ 3rd Place                                               │
-│ Bharatanatyam                                           │
-├─────────────────────────────────────────────────────────┤
-│ MULTIPLE MEDALS                                         │
-│ Bharatanatyam · Yoga · Kung Fu                          │
-└─────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+| Role                      | Organization                      |       Timeline      |
+| :------------------------ | :-------------------------------- | :-----------------: |
+| Technical & Research Lead | AAAI Student Chapter, SRMIST      |  Mar 2026 – Present |
+| Student Coordinator       | Student Editorial Board, CSE      |  Jan 2026 – Present |
+| Global Contributor        | Open Source Connect               |  Dec 2025 – Present |
+| Co-Founder                | Kuralara WebFlux                  |  Jul 2025 – Present |
+| Accounts Coordinator      | Entrepreneurship Development Cell | Aug 2024 – Aug 2025 |
+
+</div>
 
 ---
 
-# `// CERTIFICATION DATABASE`
+## `09 / RECOGNITION`
 
-* Python Programming — Beginner to Advanced | GUVI / HCL | Google for Education Partner
-* Python Developer Certification | freeCodeCamp
-* Agentic AI Workshop | KAMALA AI Program
+**Kalai Ilamani Award**
+Government of Tamil Nadu · Bharatanatyam
+
+**3rd Place — State-Level Kala Utsav Competition**
+Bharatanatyam
+
+**Multiple Medals**
+Bharatanatyam · Yoga · Kung Fu
+
+---
+
+## `10 / CERTIFICATIONS`
+
+* Python Programming — Beginner to Advanced · GUVI / HCL
+* Python Developer Certification · freeCodeCamp
+* Agentic AI Workshop · KAMALA AI Program
 * AI No-Code Connect
 * Slide Pitch / Paper Presentation
-* Supercharging CRM with AI | Varnam'26
+* Supercharging CRM with AI · Varnam'26
 
 ---
 
-# `// SYSTEM TELEMETRY`
+## `11 / GITHUB TELEMETRY`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kurinji-Eswar&show_icons=true&hide_border=true&bg_color=000000&title_color=F5C518&text_color=FFFFFF&icon_color=F5C518&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kurinji-Eswar&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=F5C518&text_color=E6E6E6&icon_color=F5C518&rank_icon=github" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=Kurinji-Eswar&hide_border=true&background=000000&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" height="170"/>
+<img src="https://streak-stats.demolab.com?user=Kurinji-Eswar&hide_border=true&background=0D0D0D&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&sideLabels=E6E6E6&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF" height="165"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Kurinji-Eswar/Kurinji-Eswar/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution graph"/>
 
 </div>
 
 ---
 
-# `// CONTRIBUTION MATRIX`
+## `12 / CURRENT DIRECTIVES`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Kurinji-Eswar/Kurinji-Eswar/output/github-contribution-grid-snake.svg" width="100%"/>
+**01** — Advance research in Deep Learning
+**02** — Build reliable Computer Vision systems
+**03** — Explore Medical AI & Explainable AI
+**04** — Investigate Edge AI deployment
+**05** — Study AI-driven Time-Series Intelligence
+**06** — Contribute to open-source ecosystems
+**07** — Turn research concepts into engineered systems
 
 </div>
 
 ---
 
-# `// CURRENT MISSION`
-
-```text
-[ ACTIVE ]
-
-▸ Advance research in Deep Learning
-▸ Build reliable Computer Vision systems
-▸ Explore Medical AI & Explainable AI
-▸ Investigate Edge AI deployment
-▸ Study AI-driven time-series intelligence
-▸ Contribute to open-source ecosystems
-▸ Convert research ideas into engineered systems
-```
-
----
-
-# `// RESEARCH DIRECTIVES`
+## `13 / RESEARCH INTERESTS`
 
 <div align="center">
 
-`DEEP LEARNING`
-`COMPUTER VISION`
-`MEDICAL AI`
-`NLP / LLMs`
-`EDGE AI`
-`TIME-SERIES ANALYSIS`
-`SIGNAL PROCESSING`
-`EXPLAINABLE AI`
-`FEDERATED LEARNING`
+`Deep Learning`   `Computer Vision`   `Medical AI`
+
+`NLP / LLMs`   `Edge AI`   `Time-Series Analysis`
+
+`Signal Processing`   `Explainable AI`   `Federated Learning`
 
 </div>
 
 ---
 
-# `// NETWORK`
-
 <div align="center">
 
-<a href="https://github.com/Kurinji-Eswar">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br>
 
 <a href="https://linkedin.com/in/kurinji-eswar">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/CONNECT-161616?style=for-the-badge&logo=linkedin&logoColor=F5C518"/>
 </a>
 
-<a href="https://kuralarawebflux.com">
-<img src="https://img.shields.io/badge/KURALARA_WEBFLUX-000000?style=for-the-badge&logo=googlechrome&logoColor=F5C518"/>
+<a href="https://github.com/Kurinji-Eswar">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-161616?style=for-the-badge&logo=github&logoColor=F5C518"/>
 </a>
 
-<a href="https://x.com/Kurinji_Offl">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+<br><br>
 
-<a href="mailto:kurinjieswarofficial@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:242424,50:101010,100:050505&section=footer&animation=fadeIn" width="100%"/>
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5c518,50:161616,100:000000&height=120&section=footer&animation=fadeIn"/>
-
-### `WAYNETECH // SYSTEMS DON'T BUILD THEMSELVES.`
-
-**Research. Engineer. Experiment. Deploy.**
+<sub><b>WAYNETECH // RESEARCH • ENGINEERING • INTELLIGENCE</b></sub>
 
 </div>
