@@ -1,24 +1,12 @@
-<!-- =========================================================
-     KURINJI ESWAR J A
-     GitHub Profile README
-     Visual direction:
-     Heritage Editorial / Old Money / Tamil Classical
-     ========================================================= -->
-
 <div align="center">
 
-<br><br>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=18&duration=3600&pause=1400&color=B79A61&center=true&vCenter=true&width=820&height=40&lines=COMPUTER+SCIENCE+%26+ENGINEERING;APPLIED+ARTIFICIAL+INTELLIGENCE;RESEARCH+%C2%B7+DESIGN+%C2%B7+ENGINEERING"
-alt="Kurinji Eswar"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=20&duration=2800&pause=1000&color=C6A96B&center=true&vCenter=true&width=900&height=45&lines=KURINJI+ESWAR+J+A;APPLIED+AI+%2F+RESEARCH+%2F+ENGINEERING;BUILDING+INTELLIGENT+SYSTEMS+WITH+PURPOSE" alt="Animated introduction"/>
 
 <br>
 
-# **KURINJI ESWAR J A**
+# KURINJI ESWAR J A
 
-### Computer Science & Engineering · Applied AI · Research
+**Computer Science & Engineering · Applied Artificial Intelligence · Research**
 
 <br>
 
@@ -26,9 +14,7 @@ alt="Kurinji Eswar"
 <tr>
 <td align="center">
 
-**“யாதும் ஊரே யாவரும் கேளிர்”**
-
-<br>
+### **“யாதும் ஊரே யாவரும் கேளிர்”**
 
 <sub><i>Every place is our home; everyone is our kin.</i></sub>
 
@@ -40,35 +26,25 @@ alt="Kurinji Eswar"
 </tr>
 </table>
 
-<br><br>
+<br>
 
 <a href="https://github.com/Kurinji-Eswar">
-<img src="https://img.shields.io/badge/GITHUB-171A16?style=flat-square&logo=github&logoColor=B79A61" />
+<img src="https://img.shields.io/badge/EXPLORE_GITHUB-101511?style=for-the-badge&logo=github&logoColor=C6A96B"/>
 </a>
-&nbsp;
 <a href="https://linkedin.com/in/kurinji-eswar">
-<img src="https://img.shields.io/badge/LINKEDIN-171A16?style=flat-square&logo=linkedin&logoColor=B79A61" />
+<img src="https://img.shields.io/badge/LINKEDIN-101511?style=for-the-badge&logo=linkedin&logoColor=C6A96B"/>
 </a>
-&nbsp;
 <a href="https://kuralarawebflux.com">
-<img src="https://img.shields.io/badge/KURALARA_WEBFLUX-171A16?style=flat-square&logo=googlechrome&logoColor=B79A61" />
-</a>
-&nbsp;
-<a href="https://x.com/Kurinji_Offl">
-<img src="https://img.shields.io/badge/X-171A16?style=flat-square&logo=x&logoColor=B79A61" />
-</a>
-&nbsp;
-<a href="mailto:kurinjieswarofficial@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-171A16?style=flat-square&logo=gmail&logoColor=B79A61" />
+<img src="https://img.shields.io/badge/KURALARA_WEBFLUX-101511?style=for-the-badge&logo=googlechrome&logoColor=C6A96B"/>
 </a>
 
 <br><br>
 
 <sub>
-SRM INSTITUTE OF SCIENCE AND TECHNOLOGY &nbsp;•&nbsp; B.TECH CSE &nbsp;•&nbsp; 2028
+SRM INSTITUTE OF SCIENCE & TECHNOLOGY · B.TECH CSE · 2028 · CGPA 8.44
 </sub>
 
-<br><br><br>
+<br><br>
 
 </div>
 
@@ -76,60 +52,71 @@ SRM INSTITUTE OF SCIENCE AND TECHNOLOGY &nbsp;•&nbsp; B.TECH CSE &nbsp;•&nbs
 
 <div align="center">
 
-<table width="92%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=C6A96B" width="80%"/>
+
+</div>
+
+<br>
+
+<table width="100%">
 <tr>
 
-<td width="65%" valign="top">
+<td width="62%" valign="top">
 
-# ABOUT
+## THE PERSON BEHIND THE CODE
 
-I am a **Computer Science and Engineering undergraduate** exploring applied artificial intelligence through research, experimentation and engineering.
+I work at the intersection of **artificial intelligence, research and engineering**.
 
-My work spans **deep learning, computer vision, medical AI, edge intelligence and time-series analysis**, with an emphasis on developing systems that can be understood, evaluated and translated into practical applications.
+My interests span deep learning, computer vision, medical AI, edge intelligence and time-series systems.
 
-I enjoy working where **research meets engineering** — from modelling complex signals to building vision-guided physical systems.
+Rather than treating research and development as separate disciplines, I enjoy taking an idea through the complete cycle:
+
+**Problem → Investigation → Experiment → Evaluation → System**
+
+My objective is simple:
+
+> **Build technology that is technically interesting and genuinely useful.**
 
 </td>
 
-<td width="35%" valign="top">
+<td width="38%" valign="top">
 
-### PROFILE
+## CURRENTLY
 
-**Degree**
-B.Tech. Computer Science & Engineering
+**Education**
+B.Tech. CSE
 
-**Institution**
+**Institute**
 SRMIST
 
-**Expected**
+**Graduation**
 2028
 
 **CGPA**
-**8.44 / 10**
+8.44 / 10
 
-**Focus**
+**Domain**
 Applied AI
+
+**Mode**
+Research + Engineering
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
 <br>
 
 <div align="center">
 
-`DEEP LEARNING`  · 
-`COMPUTER VISION`  · 
-`MEDICAL AI`
+### RESEARCH DOMAINS
 
 <br>
 
-`EDGE AI`  · 
-`TIME-SERIES`  · 
-`SIGNAL PROCESSING`
+`DEEP LEARNING`　 `COMPUTER VISION`　 `MEDICAL AI`
+
+`EDGE INTELLIGENCE`　 `TIME-SERIES`　 `SIGNAL PROCESSING`
 
 </div>
 
@@ -139,9 +126,9 @@ Applied AI
 
 <div align="center">
 
-## RESEARCH
+# RESEARCH LABORATORY
 
-<sub>Questions worth investigating become systems worth building.</sub>
+<sub>Selected investigations</sub>
 
 </div>
 
@@ -152,20 +139,19 @@ Applied AI
 
 <td width="50%" valign="top">
 
-### POWER GRID INTELLIGENCE
+## POWER GRID INTELLIGENCE
 
-**NIT Puducherry**
-Research Intern · December 2025
+**NIT Puducherry · Research Intern**
 
-Individual research on **power-grid inertia prediction and estimation** using frequency time-series data.
+`December 2025`
 
-<br>
+Research on **power-grid inertia prediction and estimation** using frequency time-series data.
 
-**APPROACH**
+### Methods
 
 `ROCOF`
 
-`Savitzky–Golay Filtering`
+`Savitzky–Golay`
 
 `Signal Processing`
 
@@ -175,30 +161,29 @@ Individual research on **power-grid inertia prediction and estimation** using fr
 
 `Swing Equation`
 
-<br>
+### Direction
 
-Investigated the relationship between **physics-guided estimation and data-driven deep learning** for power-system intelligence.
+**Physics-guided estimation × Data-driven deep learning**
 
 </td>
 
 <td width="50%" valign="top">
 
-### WEARABLE HEALTH INTELLIGENCE
+## WEARABLE HEALTH INTELLIGENCE
 
 **Independent Research**
-Completed Manuscript
 
-An AI-enabled framework for **continuous physiological monitoring and health-risk assessment**.
+*Completed Manuscript*
 
-<br>
+Framework for continuous physiological monitoring and health-risk assessment.
 
-**DIRECTIONS**
+### Investigated
 
 `Trend Prediction`
 
 `Early Warning`
 
-`Edge–Cloud Collaboration`
+`Edge–Cloud`
 
 `Personalization`
 
@@ -207,6 +192,10 @@ An AI-enabled framework for **continuous physiological monitoring and health-ris
 `Explainable AI`
 
 `Multimodal Sensing`
+
+### Direction
+
+**Continuous monitoring × Intelligent risk assessment**
 
 </td>
 
@@ -219,9 +208,9 @@ An AI-enabled framework for **continuous physiological monitoring and health-ris
 
 <div align="center">
 
-## SELECTED WORK
+# FEATURED SYSTEMS
 
-<sub>Research translated into engineered systems.</sub>
+<sub>Selected technical work</sub>
 
 </div>
 
@@ -230,67 +219,59 @@ An AI-enabled framework for **continuous physiological monitoring and health-ris
 <table width="100%">
 <tr>
 
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
-### VISION-GUIDED LASER QR ENCODING
+## 01
+
+# VISION-GUIDED
+
+# LASER QR ENCODING
 
 **Patent Filed**
 
-**Computer Vision · Semantic Segmentation · Embedded AI**
+A railway inspection system combining **computer vision, semantic segmentation and embedded physical control**.
 
-A railway inspection prototype designed to identify corrosion-free regions and guide a laser system toward suitable QR encoding locations.
+### Architecture
 
-<br>
-
-**PROCESS**
-
-`CAMERA`
-
-↓
-
-`SEGFORMER-B0`
-
-↓
-
-`RUST / METAL SEGMENTATION`
-
-↓
-
-`ADAPTIVE CLEAN-ZONE LOCALIZATION`
-
-↓
-
-`COORDINATE PROJECTION`
-
-↓
-
-`ESP32 PAN–TILT`
-
-↓
-
-`LASER TARGETING`
+```text
+IMAGE
+  ↓
+SEGFORMER-B0
+  ↓
+RUST / METAL SEGMENTATION
+  ↓
+ADAPTIVE CLEAN-ZONE
+  ↓
+COORDINATE PROJECTION
+  ↓
+ESP32 PAN-TILT
+  ↓
+LASER TARGET
+```
 
 </td>
 
-<td width="42%" valign="top">
+<td width="40%" valign="top">
 
-### RESULTS
+## PERFORMANCE
 
 <br>
 
-**0.78** <sub>Clear-Metal IoU</sub>
+### **0.78**
 
-<br><br>
+Clear-Metal IoU
 
-**0.74** <sub>Rust IoU</sub>
+### **0.74**
 
-<br><br>
+Rust IoU
 
-**~2.1 mm** <sub>Laser Error @ 35 cm</sub>
+### **~2.1 mm**
 
-<br><br>
+Targeting Error @ 35 cm
 
-**112** <sub>Custom Dataset Images</sub>
+### **112**
+
+Dataset Images
 
 </td>
 
@@ -306,15 +287,19 @@ A railway inspection prototype designed to identify corrosion-free regions and g
 
 <td width="50%" valign="top">
 
-### TUBERCULOSIS DETECTION
+## 02
 
-**Medical AI · Deep Learning · Computer Vision**
+# TUBERCULOSIS
 
-Automated pulmonary tuberculosis detection from chest X-ray images using **MobileNetV2**.
+# DETECTION
+
+**Medical AI · MobileNetV2**
+
+Automated pulmonary TB detection from chest X-ray images with interpretable analysis.
 
 <br>
 
-| METRIC      |    RESULT |
+|             |           |
 | :---------- | --------: |
 | Accuracy    | **94.2%** |
 | Sensitivity | **92.8%** |
@@ -322,23 +307,25 @@ Automated pulmonary tuberculosis detection from chest X-ray images using **Mobil
 
 <br>
 
-Interpretable analysis included **cavity detection, pleural-effusion assessment and anatomical-zone analysis**.
+**Interpretability**
 
-Integrated into a Flask-based application.
+Cavity detection · Pleural-effusion assessment · Anatomical-zone analysis
 
 </td>
 
 <td width="50%" valign="top">
 
-### NOVASHIELD AI
+## 03
+
+# NOVASHIELD AI
 
 **Patent Filed**
 
-An autonomous cybersecurity framework designed around AI-driven detection of anomalous system and log activity.
+Autonomous cybersecurity framework for anomalous system and log-activity detection.
 
 <br>
 
-**FOCUS**
+**Core ideas**
 
 `AI Threat Detection`
 
@@ -355,30 +342,32 @@ An autonomous cybersecurity framework designed around AI-driven detection of ano
 </tr>
 </table>
 
----
-
 <br>
+
+---
 
 <div align="center">
 
+## PUBLIC DEPLOYMENT
+
 ### WELFARESYNC
 
-**Scalable Multi-Tenant Resident Welfare Analytics & Monitoring System**
+**Multi-Tenant Resident Welfare Analytics & Monitoring**
 
 <br>
 
-`Node.js`   `PostgreSQL`   `MongoDB`   `Redis`
+`Node.js` · `PostgreSQL` · `MongoDB` · `Redis`
 
 <br>
 
 <sub>
-Multi-Tenant Architecture · REST APIs · Event-Driven Systems
+Multi-Tenant Architecture · REST APIs · Event-Driven Architecture
 </sub>
 
 <br><br>
 
 <a href="https://github.com/Kurinji-Eswar/WelfareSync">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-171A16?style=for-the-badge&logo=github&logoColor=B79A61" />
+<img src="https://img.shields.io/badge/OPEN_PROJECT-101511?style=for-the-badge&logo=github&logoColor=C6A96B"/>
 </a>
 
 </div>
@@ -389,15 +378,11 @@ Multi-Tenant Architecture · REST APIs · Event-Driven Systems
 
 <div align="center">
 
-## TECHNOLOGY
-
-</div>
+# TECHNOLOGY STACK
 
 <br>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,cpp,java,js,nodejs,postgres,mongodb,mysql,redis,docker,aws,git,github&perline=9&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,cpp,java,js,nodejs,postgres,mongodb,mysql,redis,docker,aws,git,github&perline=9&theme=dark"/>
 
 </div>
 
@@ -411,11 +396,17 @@ Multi-Tenant Architecture · REST APIs · Event-Driven Systems
 ### INTELLIGENCE
 
 Deep Learning
+
 Computer Vision
+
 CNNs
+
 Semantic Segmentation
+
 Explainable AI
+
 Time-Series Analysis
+
 Signal Processing
 
 </td>
@@ -425,29 +416,42 @@ Signal Processing
 ### DEVELOPMENT
 
 Python
+
 C++
+
 Java
+
 JavaScript
+
 SQL
+
 Flask
+
 Node.js
+
 REST APIs
 
 </td>
 
 <td width="33%" align="center" valign="top">
 
-### SYSTEMS
+### INFRASTRUCTURE
 
 PostgreSQL
+
 MongoDB
+
 MySQL
+
 SQLite
+
 Redis
+
 Docker
+
 AWS
+
 ESP32
-Edge AI
 
 </td>
 
@@ -460,7 +464,7 @@ Edge AI
 
 <div align="center">
 
-## EXPERIENCE
+# EXPERIENCE
 
 </div>
 
@@ -477,9 +481,9 @@ Edge AI
 
 Power Grid Inertia Prediction & Estimation
 
-`December 2025`
+`DEC 2025`
 
-<br>
+---
 
 ### AXCENTRA
 
@@ -487,17 +491,17 @@ Power Grid Inertia Prediction & Estimation
 
 MERN · REST APIs · Application Engineering
 
-`December 2025 — January 2026`
+`DEC 2025 — JAN 2026`
 
-<br>
+---
 
 ### PRODIGY INFOTECH
 
 **Data Science Intern**
 
-Python · Pandas · Scikit-learn · Feature Engineering
+Python · Pandas · Scikit-learn
 
-`June 2025 — July 2025`
+`JUN 2025 — JUL 2025`
 
 </td>
 
@@ -509,17 +513,17 @@ Python · Pandas · Scikit-learn · Feature Engineering
 
 Python · Databases · Software Development
 
-`January 2025 — March 2025`
+`JAN 2025 — MAR 2025`
 
-<br>
+---
 
 ### PRODIGY INFOTECH
 
 **Web Development Intern**
 
-HTML · CSS · JavaScript · Responsive Interfaces
+HTML · CSS · JavaScript
 
-`January 2025 — February 2025`
+`JAN 2025 — FEB 2025`
 
 </td>
 
@@ -532,29 +536,21 @@ HTML · CSS · JavaScript · Responsive Interfaces
 
 <div align="center">
 
-## LEADERSHIP
+# LEADERSHIP
 
 </div>
 
 <br>
 
-| ROLE                          | ORGANIZATION                               |        PERIOD       |
-| :---------------------------- | :----------------------------------------- | :-----------------: |
-| **Technical & Research Lead** | AAAI Student Chapter · SRMIST              |  Mar 2026 — Present |
-| **Student Coordinator**       | Student Editorial Board · CSE, SRMIST      |  Jan 2026 — Present |
-| **Global Contributor**        | Open Source Connect                        |  Dec 2025 — Present |
-| **Co-Founder**                | Kuralara WebFlux                           |  Jul 2025 — Present |
-| **Accounts Coordinator**      | Entrepreneurship Development Cell · SRMIST | Aug 2024 — Aug 2025 |
+| POSITION                      | ORGANIZATION                      |     PERIOD     |
+| :---------------------------- | :-------------------------------- | :------------: |
+| **Technical & Research Lead** | AAAI Student Chapter · SRMIST     | 2026 — Present |
+| **Student Coordinator**       | Student Editorial Board · CSE     | 2026 — Present |
+| **Global Contributor**        | Open Source Connect               | 2025 — Present |
+| **Co-Founder**                | Kuralara WebFlux                  | 2025 — Present |
+| **Accounts Coordinator**      | Entrepreneurship Development Cell |   2024 — 2025  |
 
 ---
-
-<br>
-
-<div align="center">
-
-## CERTIFICATIONS
-
-</div>
 
 <br>
 
@@ -563,36 +559,56 @@ HTML · CSS · JavaScript · Responsive Interfaces
 
 <td width="50%" valign="top">
 
-**PYTHON PROGRAMMING**
-Beginner to Advanced
-*GUVI / HCL · Google for Education Partner*
+<div align="center">
+
+# CERTIFICATIONS
+
+</div>
 
 <br>
 
-**PYTHON DEVELOPER CERTIFICATION**
-*freeCodeCamp*
+**Python Programming — Beginner to Advanced**
+GUVI / HCL · Google for Education Partner
 
 <br>
 
-**FOUNDATIONS OF POSITIVE PSYCHOLOGY**
+**Python Developer Certification**
+freeCodeCamp
+
+<br>
+
+**Foundations of Positive Psychology**
 5-Course Specialization
 
+<br>
+
+**Agentic AI Workshop**
+KAMALA AI Program
+
 </td>
 
 <td width="50%" valign="top">
 
-**AGENTIC AI WORKSHOP**
-*KAMALA AI Program*
+<div align="center">
+
+# TECHNICAL ACTIVITIES
+
+</div>
 
 <br>
 
-**AI NO-CODE CONNECT**
-*Varnam'26*
+**AI No-Code Connect**
+Varnam'26
 
 <br>
 
-**SUPERCHARGING CRM WITH AI**
-*Varnam'26*
+**Slide Pitch / Paper Presentation**
+Varnam'26
+
+<br>
+
+**Supercharging CRM with AI**
+Varnam'26
 
 </td>
 
@@ -605,65 +621,7 @@ Beginner to Advanced
 
 <div align="center">
 
-## TECHNICAL ACTIVITIES
-
-</div>
-
-<br>
-
-<div align="center">
-
-<table width="88%">
-<tr>
-
-<td align="center">
-
-**AI NO-CODE CONNECT**
-
-<br>
-
-<sub>Varnam'26</sub>
-
-</td>
-
-<td align="center">
-
-**SLIDE PITCH / PAPER PRESENTATION**
-
-<br>
-
-<sub>Varnam'26</sub>
-
-</td>
-
-<td align="center">
-
-**SUPERCHARGING CRM WITH AI**
-
-<br>
-
-<sub>Varnam'26</sub>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-<br>
-
-<div align="center">
-
-## BEYOND COMPUTING
-
-<br>
-
-<sub>
-A technical education shaped alongside classical practice.
-</sub>
+# DISTINCTIONS
 
 </div>
 
@@ -672,35 +630,36 @@ A technical education shaped alongside classical practice.
 <table width="100%">
 <tr>
 
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-My background extends beyond technology into **Bharatanatyam, Yoga and Kung Fu**.
+### KALAI ILAMANI AWARD
 
-Classical practice has taught me the same qualities I value in engineering: **discipline, precision, patience and consistency**.
+**Government of Tamil Nadu**
+
+Bharatanatyam
 
 </td>
 
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
-**KALAI ILAMANI AWARD**
-Government of Tamil Nadu
+### STATE-LEVEL KALA UTSAV
+
+**3rd Place**
+
 Bharatanatyam
-
-<br>
-
-**3RD PLACE**
-State-Level Kala Utsav
-Bharatanatyam
-
-<br>
-
-**MULTIPLE MEDALS**
-Bharatanatyam · Yoga · Kung Fu
 
 </td>
 
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+
+**Multiple medals · Bharatanatyam · Yoga · Kung Fu**
+
+</div>
 
 ---
 
@@ -708,56 +667,19 @@ Bharatanatyam · Yoga · Kung Fu
 
 <div align="center">
 
-## RESEARCH DIRECTION
-
-<br>
-
-<table>
-<tr>
-<td align="center">
-
-**01** <sub>UNDERSTAND</sub>
-
-</td>
-<td>→</td>
-<td align="center">
-
-**02** <sub>EXPLORE</sub>
-
-</td>
-<td>→</td>
-<td align="center">
-
-**03** <sub>EXPERIMENT</sub>
-
-</td>
-<td>→</td>
-<td align="center">
-
-**04** <sub>EVALUATE</sub>
-
-</td>
-<td>→</td>
-<td align="center">
-
-**05** <sub>ENGINEER</sub>
-
-</td>
-<td>→</td>
-<td align="center">
-
-**06** <sub>DEPLOY</sub>
-
-</td>
-</tr>
-</table>
+# BEYOND COMPUTING
 
 <br>
 
 <sub>
-Building intelligent systems with research discipline and engineering practicality.
+Classical practice has shaped the same qualities I bring to engineering:
+precision, patience, consistency and discipline.
 </sub>
 
+<br><br>
+
+**BHARATANATYAM**　·　**YOGA**　·　**KUNG FU**
+
 </div>
 
 ---
@@ -766,50 +688,38 @@ Building intelligent systems with research discipline and engineering practicali
 
 <div align="center">
 
-## CURRENT INTERESTS
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=C6A96B" width="80%"/>
+
+<br><br>
+
+# RESEARCH WITH PURPOSE.
+
+# ENGINEERING WITH DISCIPLINE.
 
 <br>
 
-`Deep Learning`   `Computer Vision`   `Medical AI`
+<sub>
+
+**Deep Learning · Computer Vision · Medical AI · Edge Intelligence**
+
+</sub>
 
 <br><br>
-
-`NLP / LLMs`   `Edge AI`   `Time-Series Intelligence`
-
-<br><br>
-
-`Signal Processing`   `Explainable AI`   `Federated Learning`
-
-</div>
-
----
-
-<br><br>
-
-<div align="center">
-
-<font color="#B79A61">
 
 ### **அறிவு · ஆய்வு · ஆக்கம்**
 
-</font>
-
-<br>
-
 <sub><i>Knowledge · Research · Creation</i></sub>
 
-<br><br><br>
+<br><br>
 
 <a href="https://github.com/Kurinji-Eswar">GitHub</a>
-  ·   <a href="https://linkedin.com/in/kurinji-eswar">LinkedIn</a>
-  ·   <a href="https://kuralarawebflux.com">Kuralara WebFlux</a>
-  ·   <a href="https://x.com/Kurinji_Offl">X</a>
-  ·   <a href="mailto:kurinjieswarofficial@gmail.com">Email</a>
+  ·   <a href="https://linkedin.com/in/kurinji-eswar">LinkedIn</a>
+  ·   <a href="https://kuralarawebflux.com">Kuralara WebFlux</a>
+  ·   <a href="https://x.com/Kurinji_Offl">X</a>
+  ·   <a href="mailto:kurinjieswarofficial@gmail.com">Email</a>
 
 <br><br>
 
 <sub>© KURINJI ESWAR J A</sub>
-
-<br><br>
 
 </div>
