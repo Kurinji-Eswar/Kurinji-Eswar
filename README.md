@@ -1,280 +1,96 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=20&duration=2800&pause=1000&color=C6A96B&center=true&vCenter=true&width=900&height=45&lines=KURINJI+ESWAR+J+A;APPLIED+AI+%2F+RESEARCH+%2F+ENGINEERING;BUILDING+INTELLIGENT+SYSTEMS+WITH+PURPOSE" alt="Animated introduction"/>
+<p align="center">
+  <i>E S T . &nbsp; 2 0 2 4 &nbsp; · &nbsp; S R M I S T &nbsp; C H E N N A I</i>
+</p>
+
+# K U R I N J I &nbsp; E S W A R &nbsp; J &nbsp; A
+
+<p align="center">
+  <b>Computer Science & Engineering &nbsp;·&nbsp; Applied Intelligence &nbsp;·&nbsp; Research</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=8C7355" width="40%"/>
+</p>
+
+> *“யாதும் ஊரே யாவரும் கேளிர்”*  
+> <small>— Kaniyan Poongundranar, <i>Purananuru</i><br>
+> (To us all towns are our own, everyone our kin.)</small>
 
 <br>
 
-# KURINJI ESWAR J A
-
-**Computer Science & Engineering · Applied Artificial Intelligence · Research**
-
-<br>
-
-<table>
-<tr>
-<td align="center">
-
-### **“யாதும் ஊரே யாவரும் கேளிர்”**
-
-<sub><i>Every place is our home; everyone is our kin.</i></sub>
+[Curriculum Vitae](https://github.com/Kurinji-Eswar) &nbsp;·&nbsp;
+[LinkedIn](https://linkedin.com/in/kurinji-eswar) &nbsp;·&nbsp;
+[Kuralara WebFlux](https://kuralarawebflux.com) &nbsp;·&nbsp;
+[Correspondence](mailto:kurinjieswarofficial@gmail.com)
 
 <br>
-
-<sub>— Kaniyan Poongundranar · Purananuru</sub>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<a href="https://github.com/Kurinji-Eswar">
-<img src="https://img.shields.io/badge/EXPLORE_GITHUB-101511?style=for-the-badge&logo=github&logoColor=C6A96B"/>
-</a>
-<a href="https://linkedin.com/in/kurinji-eswar">
-<img src="https://img.shields.io/badge/LINKEDIN-101511?style=for-the-badge&logo=linkedin&logoColor=C6A96B"/>
-</a>
-<a href="https://kuralarawebflux.com">
-<img src="https://img.shields.io/badge/KURALARA_WEBFLUX-101511?style=for-the-badge&logo=googlechrome&logoColor=C6A96B"/>
-</a>
-
-<br><br>
-
-<sub>
-SRM INSTITUTE OF SCIENCE & TECHNOLOGY · B.TECH CSE · 2028 · CGPA 8.44
-</sub>
-
-<br><br>
-
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=C6A96B" width="80%"/>
-
-</div>
-
-<br>
+### I. PROSPECTUS
 
 <table width="100%">
 <tr>
+<td width="65%" valign="top">
 
-<td width="62%" valign="top">
+I work across the convergence of **applied machine intelligence, mathematical modeling, and rigorous systems engineering**. 
 
-## THE PERSON BEHIND THE CODE
+Rather than segregating theoretical discovery from production engineering, I pursue the unified cycle:
 
-I work at the intersection of **artificial intelligence, research and engineering**.
+$$\text{Phenomenon} \longrightarrow \text{Formal Investigation} \longrightarrow \text{Empirical System}$$
 
-My interests span deep learning, computer vision, medical AI, edge intelligence and time-series systems.
-
-Rather than treating research and development as separate disciplines, I enjoy taking an idea through the complete cycle:
-
-**Problem → Investigation → Experiment → Evaluation → System**
-
-My objective is simple:
-
-> **Build technology that is technically interesting and genuinely useful.**
+My foundational objective is deliberate: *to construct computationally sound artifacts of genuine utility.*
 
 </td>
+<td width="35%" valign="top">
 
-<td width="38%" valign="top">
+**ACADEMIC RECORD**
 
-## CURRENTLY
-
-**Education**
-B.Tech. CSE
-
-**Institute**
-SRMIST
-
-**Graduation**
-2028
-
-**CGPA**
-8.44 / 10
-
-**Domain**
-Applied AI
-
-**Mode**
-Research + Engineering
+* **Discipline:** B.Tech, Computer Science  
+* **Institution:** SRM Institute of Science & Technology  
+* **Conferment:** Class of 2028  
+* **Cumulative GPA:** 8.44 / 10.0  
+* **Orientation:** Theory $\times$ Implementation
 
 </td>
-
 </tr>
 </table>
 
 <br>
 
-<div align="center">
-
-### RESEARCH DOMAINS
-
-<br>
-
-`DEEP LEARNING`　 `COMPUTER VISION`　 `MEDICAL AI`
-
-`EDGE INTELLIGENCE`　 `TIME-SERIES`　 `SIGNAL PROCESSING`
-
-</div>
-
 ---
 
-<br>
-
-<div align="center">
-
-# RESEARCH LABORATORY
-
-<sub>Selected investigations</sub>
-
-</div>
-
-<br>
+### II. PRIMARY INVESTIGATIONS
 
 <table width="100%">
 <tr>
-
 <td width="50%" valign="top">
 
-## POWER GRID INTELLIGENCE
+#### **Power Grid Inertia Estimation**
+*National Institute of Technology Puducherry*  
+*Research Scholar Intern &nbsp;·&nbsp; Dec 2025*
 
-**NIT Puducherry · Research Intern**
+Investigation into synthetic inertia estimation and rotational dynamics across low-inertia grids via frequency transient series.
 
-`December 2025`
-
-Research on **power-grid inertia prediction and estimation** using frequency time-series data.
-
-### Methods
-
-`ROCOF`
-
-`Savitzky–Golay`
-
-`Signal Processing`
-
-`LSTM · GRU · BiLSTM`
-
-`Multi-Step Prediction`
-
-`Swing Equation`
-
-### Direction
-
-**Physics-guided estimation × Data-driven deep learning**
+* **Methodology:** Physics-informed formulation via Swing Equation, Rate of Change of Frequency ($\text{RoCoF}$), Savitzky–Golay digital filtering.
+* **Architecture:** Bidirectional recurrent topologies (LSTM / GRU / BiLSTM) optimized for multi-step non-stationary forecasting.
 
 </td>
-
 <td width="50%" valign="top">
 
-## WEARABLE HEALTH INTELLIGENCE
+#### **Wearable Health Intelligence**
+*Independent Scientific Inquiry*  
+*Completed Manuscript &nbsp;·&nbsp; 2025–2026*
 
-**Independent Research**
+A principled framework for non-invasive continuous physiological monitoring and prospective systemic risk stratification.
 
-*Completed Manuscript*
-
-Framework for continuous physiological monitoring and health-risk assessment.
-
-### Investigated
-
-`Trend Prediction`
-
-`Early Warning`
-
-`Edge–Cloud`
-
-`Personalization`
-
-`Federated Learning`
-
-`Explainable AI`
-
-`Multimodal Sensing`
-
-### Direction
-
-**Continuous monitoring × Intelligent risk assessment**
+* **Methodology:** Edge-cloud collaborative inference, federated parameter aggregation, explainable post-hoc attributions (XAI).
+* **Architecture:** Multi-modal sensor fusion across temporal bio-signals for sub-clinical trend divergence.
 
 </td>
-
-</tr>
-</table>
-
----
-
-<br>
-
-<div align="center">
-
-# FEATURED SYSTEMS
-
-<sub>Selected technical work</sub>
-
-</div>
-
-<br>
-
-<table width="100%">
-<tr>
-
-<td width="60%" valign="top">
-
-## 01
-
-# VISION-GUIDED
-
-# LASER QR ENCODING
-
-**Patent Filed**
-
-A railway inspection system combining **computer vision, semantic segmentation and embedded physical control**.
-
-### Architecture
-
-```text
-IMAGE
-  ↓
-SEGFORMER-B0
-  ↓
-RUST / METAL SEGMENTATION
-  ↓
-ADAPTIVE CLEAN-ZONE
-  ↓
-COORDINATE PROJECTION
-  ↓
-ESP32 PAN-TILT
-  ↓
-LASER TARGET
-```
-
-</td>
-
-<td width="40%" valign="top">
-
-## PERFORMANCE
-
-<br>
-
-### **0.78**
-
-Clear-Metal IoU
-
-### **0.74**
-
-Rust IoU
-
-### **~2.1 mm**
-
-Targeting Error @ 35 cm
-
-### **112**
-
-Dataset Images
-
-</td>
-
 </tr>
 </table>
 
@@ -282,444 +98,97 @@ Dataset Images
 
 ---
 
-<table width="100%">
-<tr>
+### III. SELECTED ENGINEERING ARTIFACTS
 
-<td width="50%" valign="top">
+#### **01. Vision-Guided Adaptive Laser Metrology**
+*Patent Filed &nbsp;·&nbsp; Embedded Vision & Industrial Automation*
 
-## 02
-
-# TUBERCULOSIS
-
-# DETECTION
-
-**Medical AI · MobileNetV2**
-
-Automated pulmonary TB detection from chest X-ray images with interpretable analysis.
+An automated railway infrastructure inspection system integrating real-time semantic surface segmentation with closed-loop physical actuation```markdown
+<div align="center">
 
 <br>
 
-|             |           |
-| :---------- | --------: |
-| Accuracy    | **94.2%** |
-| Sensitivity | **92.8%** |
-| AUC         | **0.967** |
+# 𝔎𝔘ℜℑ𝔑𝔍ℑ · 𝔈𝔖𝔚𝔄ℜ · 𝔍 · 𝔄
+
+*Scholar · Applied Artificial Intelligence · Systems Engineering*
 
 <br>
 
-**Interpretability**
-
-Cavity detection · Pleural-effusion assessment · Anatomical-zone analysis
-
-</td>
-
-<td width="50%" valign="top">
-
-## 03
-
-# NOVASHIELD AI
-
-**Patent Filed**
-
-Autonomous cybersecurity framework for anomalous system and log-activity detection.
+> *“யாதும் ஊரே யாவரும் கேளிர்”*  
+> *Every domain our home; every thinker our kin.*  
+> — **Kaniyan Poongundranar**, *Purananuru*
 
 <br>
 
-**Core ideas**
+[![GitHub](https://img.shields.io/badge/ARCHIVE-GitHub-1A1A1A?style=flat-square&logo=github&logoColor=D4AF37)](https://github.com/Kurinji-Eswar)
+[![LinkedIn](https://img.shields.io/badge/CORRESPONDENCE-LinkedIn-1A1A1A?style=flat-square&logo=linkedin&logoColor=D4AF37)](https://linkedin.com/in/kurinji-eswar)
+[![Dispatches](https://img.shields.io/badge/VENTURE-Kuralara_WebFlux-1A1A1A?style=flat-square&logo=safari&logoColor=D4AF37)](https://kuralarawebflux.com)
+[![Dispatch](https://img.shields.io/badge/DISPATCH-kurinjieswarofficial@gmail.com-1A1A1A?style=flat-square&logo=gmail&logoColor=D4AF37)](mailto:kurinjieswarofficial@gmail.com)
 
-`AI Threat Detection`
+<br>
 
-`Anomaly Detection`
-
-`Automated Response`
-
-`Zero Trust`
-
-`Cloud Security`
-
-</td>
-
-</tr>
-</table>
+*SRM Institute of Science & Technology · B.Tech Computer Science & Engineering · Class of 2028 · CGPA 8.44*
 
 <br>
 
 ---
-
-<div align="center">
-
-## PUBLIC DEPLOYMENT
-
-### WELFARESYNC
-
-**Multi-Tenant Resident Welfare Analytics & Monitoring**
-
-<br>
-
-`Node.js` · `PostgreSQL` · `MongoDB` · `Redis`
-
-<br>
-
-<sub>
-Multi-Tenant Architecture · REST APIs · Event-Driven Architecture
-</sub>
-
-<br><br>
-
-<a href="https://github.com/Kurinji-Eswar/WelfareSync">
-<img src="https://img.shields.io/badge/OPEN_PROJECT-101511?style=for-the-badge&logo=github&logoColor=C6A96B"/>
-</a>
-
-</div>
-
----
-
-<br>
-
-<div align="center">
-
-# TECHNOLOGY STACK
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,cpp,java,js,nodejs,postgres,mongodb,mysql,redis,docker,aws,git,github&perline=9&theme=dark"/>
 
 </div>
 
 <br>
 
-<table width="100%">
-<tr>
+### I. DISPOSITION & ACADEMIC INQUIRY
 
-<td width="33%" align="center" valign="top">
+I operate at the convergence of machine intelligence, formal research, and robust systems craft. My investigations span deep learning, computer vision, clinical AI, edge intelligence, and dynamical time-series systems.
 
-### INTELLIGENCE
+Rather than bifurcating scholarly theory from engineering rigor, I observe the complete empirical trajectory:
 
-Deep Learning
+$$\text{First Principles} \longrightarrow \text{Rigorous Experimentation} \longrightarrow \text{Defensible Architecture}$$
 
-Computer Vision
+My philosophy is rooted in classical discipline: build systems of technical sophistication, structural permanence, and societal utility.
 
-CNNs
+<br>
 
-Semantic Segmentation
+| ACADEMIC DOSSIER | SPECIFICATION |
+| :--- | :--- |
+| **Institutional Affiliation** | SRM Institute of Science & Technology |
+| **Field of Study** | Computer Science & Engineering |
+| **Scholastic Standing** | 8.44 / 10.00 Cumulative Grade Point Average |
+| **Conferral Date** | Summer 2028 |
+| **Primary Domain** | Applied Artificial Intelligence & Edge Systems |
+| **Operating Modality** | Scholarly Research × Applied Engineering |
 
-Explainable AI
-
-Time-Series Analysis
-
-Signal Processing
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### DEVELOPMENT
-
-Python
-
-C++
-
-Java
-
-JavaScript
-
-SQL
-
-Flask
-
-Node.js
-
-REST APIs
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### INFRASTRUCTURE
-
-PostgreSQL
-
-MongoDB
-
-MySQL
-
-SQLite
-
-Redis
-
-Docker
-
-AWS
-
-ESP32
-
-</td>
-
-</tr>
-</table>
+<br>
 
 ---
 
-<br>
+### II. SELECTED INVESTIGATIONS
 
-<div align="center">
-
-# EXPERIENCE
-
-</div>
+*Rigorous inquiries across physical systems and continuous monitoring.*
 
 <br>
 
-<table width="100%">
-<tr>
+**1. Dynamics of Power-Grid Inertia**  
+*National Institute of Technology Puducherry · Research Fellow (Dec 2025)*  
+* Frequency time-series estimation marrying the classical **Swing Equation** with sequence architectures (**LSTM**, **GRU**, **BiLSTM**).
+* Real-time derivation of Rate of Change of Frequency (**RoCoF**) filtered via regularized Savitzky–Golay polynomials to stabilize multi-step prediction under synthetic load shifts.
 
-<td width="50%" valign="top">
+**2. Wearable Continuous Clinical Intelligence**  
+*Independent Scholarly Research · Manuscript Prepared*  
+* A distributed, edge-to-cloud diagnostic framework for ambient physiological tracking and longitudinal risk estimation.
+* Incorporates **Federated Optimization**, non-linear trend projection, multimodal biosensing, and explainable neural representations.
 
-### NIT PUDUCHERRY
-
-**Research Intern**
-
-Power Grid Inertia Prediction & Estimation
-
-`DEC 2025`
+<br>
 
 ---
 
-### AXCENTRA
+### III. ARCHITECTURAL PATENTS & FEATURED WORKS
 
-**Full Stack Web Development Intern**
-
-MERN · REST APIs · Application Engineering
-
-`DEC 2025 — JAN 2026`
-
----
-
-### PRODIGY INFOTECH
-
-**Data Science Intern**
-
-Python · Pandas · Scikit-learn
-
-`JUN 2025 — JUL 2025`
-
-</td>
-
-<td width="50%" valign="top">
-
-### EDUSKILLS FOUNDATION
-
-**Python Full Stack Intern**
-
-Python · Databases · Software Development
-
-`JAN 2025 — MAR 2025`
-
----
-
-### PRODIGY INFOTECH
-
-**Web Development Intern**
-
-HTML · CSS · JavaScript
-
-`JAN 2025 — FEB 2025`
-
-</td>
-
-</tr>
-</table>
-
----
+*Select engineered artifacts and intellectual property.*
 
 <br>
 
-<div align="center">
+#### 01. Vision-Guided Adaptive Laser QR Encoding
+*Patented Railway Inspection Architecture*
 
-# LEADERSHIP
-
-</div>
-
-<br>
-
-| POSITION                      | ORGANIZATION                      |     PERIOD     |
-| :---------------------------- | :-------------------------------- | :------------: |
-| **Technical & Research Lead** | AAAI Student Chapter · SRMIST     | 2026 — Present |
-| **Student Coordinator**       | Student Editorial Board · CSE     | 2026 — Present |
-| **Global Contributor**        | Open Source Connect               | 2025 — Present |
-| **Co-Founder**                | Kuralara WebFlux                  | 2025 — Present |
-| **Accounts Coordinator**      | Entrepreneurship Development Cell |   2024 — 2025  |
-
----
-
-<br>
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-# CERTIFICATIONS
-
-</div>
-
-<br>
-
-**Python Programming — Beginner to Advanced**
-GUVI / HCL · Google for Education Partner
-
-<br>
-
-**Python Developer Certification**
-freeCodeCamp
-
-<br>
-
-**Foundations of Positive Psychology**
-5-Course Specialization
-
-<br>
-
-**Agentic AI Workshop**
-KAMALA AI Program
-
-</td>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-# TECHNICAL ACTIVITIES
-
-</div>
-
-<br>
-
-**AI No-Code Connect**
-Varnam'26
-
-<br>
-
-**Slide Pitch / Paper Presentation**
-Varnam'26
-
-<br>
-
-**Supercharging CRM with AI**
-Varnam'26
-
-</td>
-
-</tr>
-</table>
-
----
-
-<br>
-
-<div align="center">
-
-# DISTINCTIONS
-
-</div>
-
-<br>
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-### KALAI ILAMANI AWARD
-
-**Government of Tamil Nadu**
-
-Bharatanatyam
-
-</td>
-
-<td width="50%" valign="top">
-
-### STATE-LEVEL KALA UTSAV
-
-**3rd Place**
-
-Bharatanatyam
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-**Multiple medals · Bharatanatyam · Yoga · Kung Fu**
-
-</div>
-
----
-
-<br>
-
-<div align="center">
-
-# BEYOND COMPUTING
-
-<br>
-
-<sub>
-Classical practice has shaped the same qualities I bring to engineering:
-precision, patience, consistency and discipline.
-</sub>
-
-<br><br>
-
-**BHARATANATYAM**　·　**YOGA**　·　**KUNG FU**
-
-</div>
-
----
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=C6A96B" width="80%"/>
-
-<br><br>
-
-# RESEARCH WITH PURPOSE.
-
-# ENGINEERING WITH DISCIPLINE.
-
-<br>
-
-<sub>
-
-**Deep Learning · Computer Vision · Medical AI · Edge Intelligence**
-
-</sub>
-
-<br><br>
-
-### **அறிவு · ஆய்வு · ஆக்கம்**
-
-<sub><i>Knowledge · Research · Creation</i></sub>
-
-<br><br>
-
-<a href="https://github.com/Kurinji-Eswar">GitHub</a>
-  ·   <a href="https://linkedin.com/in/kurinji-eswar">LinkedIn</a>
-  ·   <a href="https://kuralarawebflux.com">Kuralara WebFlux</a>
-  ·   <a href="https://x.com/Kurinji_Offl">X</a>
-  ·   <a href="mailto:kurinjieswarofficial@gmail.com">Email</a>
-
-<br><br>
-
-<sub>© KURINJI ESWAR J A</sub>
-
-</div>
+A continuous-inspection system interfacing high-resolution spatial vision with physical target actuation.
