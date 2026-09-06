@@ -1,251 +1,301 @@
 <div align="center">
 
-# 𑁍 KURINJI ESWAR J A
-
-### Computer Science & Engineering · Applied AI · Research
-
-**SRM Institute of Science & Technology · B.Tech CSE · 2028**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:080808,45:15120E,75:302817,100:080808&text=KURINJI%20ESWAR%20J%20A&fontSize=46&fontColor=D4AF5A&fontAlignY=39&desc=COMPUTER%20SCIENCE%20%C2%B7%20ARTIFICIAL%20INTELLIGENCE%20%C2%B7%20RESEARCH&descAlignY=61&descSize=15&animation=fadeIn" width="100%"/>
 
 <br>
 
-`Deep Learning` · `Computer Vision` · `Medical AI` · `Edge AI` · `Time-Series Analysis`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1000&color=D4AF5A&center=true&vCenter=true&width=820&height=45&lines=RESEARCHING+INTELLIGENT+SYSTEMS;DEEP+LEARNING+%C2%B7+COMPUTER+VISION+%C2%B7+MEDICAL+AI;EDGE+INTELLIGENCE+%C2%B7+TIME-SERIES+ANALYSIS;RESEARCH+%2B+EXPERIMENTATION+%2B+ENGINEERING" alt="Animated research focus"/>
 
-<br>
+<br><br>
 
-[GitHub](https://github.com/Kurinji-Eswar) ·
-[LinkedIn](https://linkedin.com/in/kurinji-eswar) ·
-[Kuralara WebFlux](https://kuralarawebflux.com) ·
-[X](https://x.com/Kurinji_Offl) ·
-[Email](mailto:kurinjieswarofficial@gmail.com)
+<a href="https://github.com/Kurinji-Eswar">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=D4AF5A"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/kurinji-eswar">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=D4AF5A"/>
+</a>
+&nbsp;
+<a href="https://kuralarawebflux.com">
+<img src="https://img.shields.io/badge/KURALARA_WEBFLUX-111111?style=flat-square&logo=googlechrome&logoColor=D4AF5A"/>
+</a>
+&nbsp;
+<a href="https://x.com/Kurinji_Offl">
+<img src="https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=D4AF5A"/>
+</a>
+&nbsp;
+<a href="mailto:kurinjieswarofficial@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-111111?style=flat-square&logo=gmail&logoColor=D4AF5A"/>
+</a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### ❖  शोध · शोधना · निर्माण ❖
-
-**Research · Discover · Build**
+`01 — IDENTITY`　 `02 — RESEARCH`　 `03 — WORK`　 `04 — EXPERIENCE`　 `05 — CONNECT`
 
 </div>
 
-> I am a Computer Science and Engineering undergraduate working at the intersection of **artificial intelligence, research, and engineering** — exploring how intelligent systems can solve meaningful real-world problems.
+---
 
-My work spans **deep learning, computer vision, medical AI, signal processing, time-series intelligence, and edge AI**, with an emphasis on experimentation, evaluation, and practical implementation.
+## 01 — IDENTITY
+
+### **Computer Science & Engineering · Applied AI · Research**
+
+I am a Computer Science and Engineering undergraduate at **SRM Institute of Science and Technology**, working across applied artificial intelligence, deep learning, computer vision and intelligent systems.
+
+My approach sits between **research and engineering** — understanding a problem, building an experimental system, evaluating it rigorously, and translating the result into something usable.
+
+**Currently exploring**
+
+`Deep Learning` · `Computer Vision` · `Medical AI`
+`Edge AI` · `Time-Series Intelligence` · `Signal Processing`
+
+<br>
+
+<div align="center">
+
+|  EDUCATION | INSTITUTION | GRADUATION |      CGPA     |
+| :--------: | :---------: | :--------: | :-----------: |
+| B.Tech CSE |    SRMIST   |    2028    | **8.44 / 10** |
+
+</div>
 
 ---
 
-## ❖ About
-
-Currently pursuing a **B.Tech. in Computer Science & Engineering** at SRM Institute of Science and Technology with a CGPA of **8.44 / 10**.
-
-I am particularly interested in research that combines:
-
-`Programming` + `Mathematics` + `Statistics` + `Experimentation` + `Engineering`
-
-### Research Interests
-
-* Deep Learning
-* Computer Vision
-* Medical AI
-* NLP / LLMs
-* Edge AI
-* Time-Series Analysis
-* Signal Processing
-* Explainable AI
-* Federated Learning
-
----
-
-## ❖ Research
+## 02 — RESEARCH
 
 ### ⚡ Power Grid Inertia Prediction & Estimation
 
 **Research Intern · NIT Puducherry · December 2025**
 
-Conducted individual research on power-grid inertia prediction and estimation using frequency time-series data.
+Individual research focused on predicting and estimating power-grid inertia from frequency time-series data.
 
-**Focus**
+**Methods**
 
-* ROCOF extraction
-* Savitzky–Golay filtering
-* Frequency signal processing
-* LSTM, GRU and BiLSTM models
-* Multi-step inertia prediction
-* Physics-guided Swing Equation estimation
+`ROCOF Extraction`
+`Savitzky–Golay Filtering`
+`Signal Processing`
+`LSTM` · `GRU` · `BiLSTM`
+`Multi-step Prediction`
+`Swing Equation Estimation`
+
+The work investigated the relationship between **physics-guided estimation and data-driven deep learning** for power-system intelligence.
 
 ---
 
-### 🏥 AI-Enabled Wearable System for Chronic Disease Monitoring
+### ◌ AI-Enabled Wearable System for Chronic Disease Monitoring
 
 **Independent Research · Completed Manuscript**
 
 Designed an AI-enabled framework for continuous physiological monitoring and health-risk assessment.
 
-**Explored**
+Research directions included:
 
-* Abnormal physiological trend prediction
-* Early-warning systems
-* Edge-cloud collaboration
-* Personalized learning
-* Privacy-preserving AI
-* Federated learning
-* Explainable AI
-* Multimodal sensing
+* physiological trend prediction
+* early-warning systems
+* edge-cloud collaboration
+* personalized intelligence
+* privacy-preserving learning
+* federated learning
+* explainable AI
+* multimodal sensing
 
 ---
 
-## ❖ Selected Works
+## 03 — SELECTED WORK
 
-### 🎯 Vision-Guided Laser QR Encoding
+### 01 / Vision-Guided Laser QR Encoding
 
-**Patent Filed**
+**Patent Filed · Computer Vision · Embedded AI**
 
-A railway inspection prototype combining computer vision, semantic segmentation and embedded control.
+A railway inspection system combining semantic segmentation with physical laser targeting.
 
-**Technology**
-
-`SegFormer-B0` · `Semantic Segmentation` · `ACZL` · `ESP32` · `Laser Targeting`
+```text
+CAMERA
+   ↓
+SEGFORMER-B0
+   ↓
+RUST / CLEAR-METAL SEGMENTATION
+   ↓
+ADAPTIVE CLEAN-ZONE LOCALIZATION
+   ↓
+COORDINATE PROJECTION
+   ↓
+ESP32 PAN–TILT CONTROL
+   ↓
+LASER TARGETING
+```
 
 **Evaluation**
 
-**0.78** — Clear-metal IoU
-**0.74** — Rust IoU
-**~2.1 mm** — Laser targeting error at 35 cm
-**112** — Custom dataset images
+`Clear Metal IoU` **0.78**
+`Rust IoU` **0.74**
+`Laser Error` **~2.1 mm @ 35 cm**
+`Dataset` **112 images**
 
 ---
 
-### 🫁 Tuberculosis Detection & Interpretability
+### 02 / Tuberculosis Detection & Interpretability
 
 **Medical AI · Deep Learning · Computer Vision**
 
 Developed an automated pulmonary tuberculosis detection system from chest X-ray images using **MobileNetV2**.
 
-**Results**
+<div align="center">
 
-`94.2% Accuracy` · `92.8% Sensitivity` · `0.967 AUC`
+**94.2%**
+Accuracy
 
-The system incorporated interpretable analysis including:
+**92.8%**
+Sensitivity
 
-* Cavity detection
-* Pleural-effusion assessment
-* Anatomical-zone analysis
-* Flask-based deployment
+**0.967**
+AUC
+
+</div>
+
+The system incorporated interpretable analysis involving cavity detection, pleural-effusion assessment and anatomical-zone analysis, with deployment through Flask.
 
 ---
 
-### 🛡 NovaShield AI
+### 03 / NovaShield AI
 
-**Patent Filed · Autonomous Cybersecurity Framework**
+**Patent Filed · AI Threat Detection · Zero Trust**
 
 Designed an AI-driven cybersecurity framework for anomalous system and log-activity detection.
 
-Explored:
-
-`AI Threat Detection` · `Anomaly Detection` · `Automated Response` · `Zero Trust` · `Cloud Security`
+`Anomaly Detection`
+`Threat Detection`
+`Automated Response`
+`Zero Trust`
+`Cloud Security`
 
 ---
 
-## ❖ Public Work
+### 04 / WelfareSync
 
-### WelfareSync
+**Public Software Project**
 
-**Scalable Multi-Tenant Resident Welfare Analytics & Monitoring System**
+Scalable multi-tenant resident welfare analytics and monitoring system.
 
-<a href="https://github.com/Kurinji-Eswar/WelfareSync">View Repository →</a>
-
-Built around:
+**Architecture**
 
 `Node.js` · `PostgreSQL` · `MongoDB` · `Redis`
+`REST APIs` · `Event-Driven Architecture`
 
-with an emphasis on **multi-tenant architecture, analytics, distributed data and event-driven systems**.
+<a href="https://github.com/Kurinji-Eswar/WelfareSync">
+
+<img src="https://img.shields.io/badge/EXPLORE_WELFARESYNC-17130D?style=for-the-badge&logo=github&logoColor=D4AF5A"/>
+
+</a>
 
 ---
 
-## ❖ Technical Practice
+## 04 — TECHNOLOGY
+
+<div align="center">
 
 ### Artificial Intelligence
 
-`Python` · `PyTorch` · `TensorFlow` · `Scikit-learn`
-`NumPy` · `Pandas` · `OpenCV`
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn&theme=dark" />
 
-### Programming
-
-`C++` · `Java` · `JavaScript` · `SQL`
-
-### Systems
-
-`PostgreSQL` · `MongoDB` · `MySQL` · `SQLite` · `Redis`
+<br><br>
 
 ### Engineering
 
-`Flask` · `REST APIs` · `Node.js` · `Docker` · `AWS`
+<img src="https://skillicons.dev/icons?i=cpp,java,js,nodejs,flask,docker,aws&theme=dark" />
 
-### Edge & Embedded
+<br><br>
 
-`ESP32` · `Edge AI`
+### Data
 
-### Computer Science
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite&theme=dark" />
 
-`Data Structures & Algorithms` · `OOP` · `Software Engineering`
+</div>
 
----
+<br>
 
-## ❖ Field Experience
+**Research**
 
-**NIT Puducherry**
-Research Intern · Power Grid Intelligence
-`December 2025`
+Deep Learning · CNNs · Semantic Segmentation · Explainable AI
+Time-Series Analysis · Signal Processing · Feature Engineering
 
-**AXCENTRA**
-Full Stack Web Development Intern
-`December 2025 – January 2026`
+**Systems**
 
-**Prodigy InfoTech**
-Data Science Intern
-`June 2025 – July 2025`
+REST APIs · Edge AI · ESP32 · Cloud Computing · Event-Driven Architecture
 
-**EduSkills Foundation**
-Python Full Stack Intern
-`January 2025 – March 2025`
+**Computer Science**
 
-**Prodigy InfoTech**
-Web Development Intern
-`January 2025 – February 2025`
+Data Structures & Algorithms · OOP · Software Engineering
 
 ---
 
-## ❖ Leadership
+## 05 — FIELD EXPERIENCE
+
+### NIT Puducherry
+
+**Research Intern**
+`Power Grid Inertia Prediction & Estimation`
+December 2025
+
+### AXCENTRA
+
+**Full Stack Web Development Intern**
+`MERN · REST APIs · Application Engineering`
+December 2025 — January 2026
+
+### Prodigy InfoTech
+
+**Data Science Intern**
+`Python · Pandas · Scikit-learn · Feature Engineering`
+June 2025 — July 2025
+
+### EduSkills Foundation
+
+**Python Full Stack Intern**
+`Python · Databases · Software Development`
+January 2025 — March 2025
+
+### Prodigy InfoTech
+
+**Web Development Intern**
+`HTML · CSS · JavaScript`
+January 2025 — February 2025
+
+---
+
+## 06 — LEADERSHIP
 
 **Technical & Research Lead**
 AAAI Student Chapter · SRMIST
-`March 2026 – Present`
+`March 2026 — Present`
 
 **Student Coordinator**
 Student Editorial Board · CSE, SRMIST
-`January 2026 – Present`
+`January 2026 — Present`
 
 **Global Contributor**
 Open Source Connect
-`December 2025 – Present`
+`December 2025 — Present`
 
 **Co-Founder**
 Kuralara WebFlux
-`July 2025 – Present`
+`July 2025 — Present`
 
 **Accounts Coordinator**
 Entrepreneurship Development Cell · SRMIST
-`August 2024 – August 2025`
+`August 2024 — August 2025`
 
 ---
 
-## ❖ Beyond Code
+## 07 — BEYOND COMPUTING
 
-Technology is one part of my identity.
+There is another discipline behind the technical work.
 
-My journey also includes **Bharatanatyam, Yoga and Kung Fu**.
+Years of practice in **Bharatanatyam, Yoga and Kung Fu** have shaped the way I approach consistency, precision and long-term learning.
 
 ### Recognition
 
@@ -258,59 +308,129 @@ Bharatanatyam
 **Multiple Medals**
 Bharatanatyam · Yoga · Kung Fu
 
-> *Discipline in art. Precision in engineering. Curiosity in research.*
+<br>
+
+<div align="center">
+
+### **அறிவு · ஆய்வு · ஆக்கம்**
+
+*Knowledge · Research · Creation*
+
+</div>
 
 ---
 
-## ❖ Certifications
+## 08 — CERTIFICATIONS
 
-* **Python Programming — Beginner to Advanced** · GUVI / HCL
-* **Python Developer Certification** · freeCodeCamp
-* **Agentic AI Workshop** · KAMALA AI Program
-* **AI No-Code Connect**
-* **Slide Pitch / Paper Presentation**
-* **Supercharging CRM with AI** · Varnam'26
+**Python Programming — Beginner to Advanced**
+GUVI / HCL · Google for Education Partner
+
+**Python Developer Certification**
+freeCodeCamp
+
+**Agentic AI Workshop**
+KAMALA AI Program
+
+**AI No-Code Connect**
+
+**Slide Pitch / Paper Presentation**
+
+**Supercharging CRM with AI**
+Varnam'26
 
 ---
 
-## ❖ Current Direction
+## 09 — RESEARCH DIRECTION
+
+<div align="center">
 
 ```text
-Research
-   ↓
-Experiment
-   ↓
-Evaluate
-   ↓
-Engineer
-   ↓
-Deploy
-   ↓
-Learn
+                 PROBLEM
+                    │
+                    ↓
+               HYPOTHESIS
+                    │
+                    ↓
+               EXPERIMENT
+                    │
+                    ↓
+                EVALUATE
+                    │
+                    ↓
+                ENGINEER
+                    │
+                    ↓
+                 DEPLOY
+                    │
+                    ↓
+                  LEARN
 ```
 
-Currently focused on building stronger foundations in:
+</div>
 
-**Deep Learning · Computer Vision · Medical AI · Edge AI · Intelligent Time-Series Systems**
+### Current interests
+
+`Deep Learning`
+`Computer Vision`
+`Medical AI`
+`NLP / LLMs`
+`Edge AI`
+`Time-Series Analysis`
+`Signal Processing`
+`Explainable AI`
+`Federated Learning`
+
+---
+
+## 10 — ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kurinji-Eswar&show_icons=true&hide_border=true&bg_color=0B0B0B&title_color=D4AF5A&text_color=C8C8C8&icon_color=D4AF5A&rank_icon=github" width="48%"/>
+
+<img src="https://streak-stats.demolab.com?user=Kurinji-Eswar&hide_border=true&background=0B0B0B&ring=D4AF5A&fire=D4AF5A&currStreakLabel=D4AF5A&sideLabels=C8C8C8&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF" width="48%"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Kurinji-Eswar/Kurinji-Eswar/output/github-contribution-grid-snake.svg" width="92%" alt="GitHub contribution activity"/>
+
+</div>
+
+---
+
+## 11 — PRESENT / FUTURE
+
+**Now**
+
+Building stronger foundations in AI research while developing practical systems.
+
+**Next**
+
+Deepening work in computer vision, medical AI, edge intelligence and intelligent time-series systems.
+
+**Long-term**
+
+Research that does not remain theoretical — systems that can be **tested, evaluated and used**.
 
 ---
 
 <div align="center">
 
-### 𑁍
-
-**ज्ञानम् · साधना · सृजनम्**
-
-*Knowledge · Discipline · Creation*
-
 <br>
 
-<a href="https://github.com/Kurinji-Eswar">GitHub</a>
-  ·   <a href="https://linkedin.com/in/kurinji-eswar">LinkedIn</a>
-  ·   <a href="https://kuralarawebflux.com">Kuralara WebFlux</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=1500&color=8E8E8E&center=true&vCenter=true&width=650&height=30&lines=CURIOUS+BY+NATURE.;DISCIPLINED+BY+PRACTICE.;DRIVEN+BY+RESEARCH." alt="Animated closing statement"/>
 
 <br><br>
 
-<sub>Built with curiosity, discipline and a love for creating.</sub>
+<a href="https://github.com/Kurinji-Eswar">GitHub</a>
+  ·   <a href="https://linkedin.com/in/kurinji-eswar">LinkedIn</a>
+  ·   <a href="https://kuralarawebflux.com">Kuralara WebFlux</a>
+  ·   <a href="mailto:kurinjieswarofficial@gmail.com">Email</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:080808,50:302817,100:080808&section=footer&animation=fadeIn" width="100%"/>
+
+<sub>© Kurinji Eswar J A · Research · Engineering · Creation</sub>
 
 </div>
