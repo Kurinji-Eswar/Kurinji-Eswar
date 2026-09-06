@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=38&duration=3500&pause=1200&color=D4C199&center=true&vCenter=true&width=700&height=70&lines=Kurinji+Eswar+J+A" alt="Kurinji Eswar J A"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=400&size=17&duration=3500&pause=1200&color=9BAA96&center=true&vCenter=true&width=700&height=35&lines=Applied+Artificial+Intelligence+%C2%B7+Research+%C2%B7+Engineering" alt="Applied Artificial Intelligence · Research · Engineering"/>
+<img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=400&size=17&duration=3500&pause=1200&color=9BAA96&center=true&vCenter=true&width=700&height=35&lines=Artificial+Intelligence+%C2%B7+Research+%C2%B7+Engineering" alt="Artificial Intelligence · Research · Engineering"/>
 
 <br><br>
 
@@ -33,7 +33,7 @@
 <br><br>
 
 <sub>
-B.Tech. Computer Science & Engineering · SRM Institute of Science & Technology · Class of 2028
+B.Tech. Computer Science & Engineering · SRM Institute of Science & Technology · 2024–2028
 </sub>
 
 <br>
@@ -50,7 +50,7 @@ Tiruchirappalli, Tamil Nadu · India
 
 <div align="center">
 
-## THE WORK
+## PROFILE
 
 <i>Research-driven engineering for problems worth solving.</i>
 
@@ -58,43 +58,19 @@ Tiruchirappalli, Tamil Nadu · India
 
 <br>
 
-I am a **Computer Science & Engineering undergraduate** working at the intersection of **artificial intelligence, deep learning, computer vision, and research-oriented engineering**.
+I am a **Computer Science & Engineering undergraduate** focused on **applied artificial intelligence, deep learning, computer vision, and intelligent systems**.
 
-My work spans experimental research, intelligent systems, embedded AI, medical imaging, time-series modelling, and full-stack engineering.
+My work combines research with practical engineering — from modelling and experimentation to embedded systems and deployable applications.
 
-I am particularly interested in taking an idea beyond a model or prototype:
+I am particularly interested in:
 
-<div align="center">
+`Deep Learning` · `Computer Vision` · `Medical AI` · `Edge AI` · `Time-Series Analysis`
 
-**Problem → Investigation → Experiment → Evaluation → System**
-
-</div>
-
-The objective is simple:
-
-> **Build technology that is technically rigorous, experimentally grounded, and genuinely useful.**
-
-<br>
-
----
+My approach is straightforward:
 
 <div align="center">
 
-## RESEARCH DOMAINS
-
-<br>
-
-`Deep Learning`
-&nbsp;&nbsp;
-`Computer Vision`
-&nbsp;&nbsp;
-`Medical AI`
-&nbsp;&nbsp;
-`Edge AI`
-&nbsp;&nbsp;
-`Time-Series Analysis`
-&nbsp;&nbsp;
-`Signal Processing`
+**Understand the problem → Investigate → Experiment → Evaluate → Build**
 
 </div>
 
@@ -104,53 +80,43 @@ The objective is simple:
 
 <div align="center">
 
-## SELECTED RESEARCH
+## RESEARCH
 
-<i>Investigations in intelligent systems, prediction, and applied AI.</i>
+<i>Selected investigations and research-oriented work.</i>
 
 </div>
 
 <br>
 
-<details>
-<summary><b>Power Grid Intelligence</b> · NIT Puducherry · Research Intern · December 2025</summary>
+### Power Grid Inertia Prediction & Estimation
 
-<br>
+**Research Intern · NIT Puducherry · December 2025**
 
-Research focused on **power-grid inertia prediction and estimation** using frequency time-series data.
+Research on estimating and predicting **power-grid inertia from frequency time-series data**.
 
 **Methods**
 
-- ROCOF extraction
-- Savitzky–Golay filtering
-- Signal-processing techniques
-- Frequency time-series analysis
+`ROCOF` · `Savitzky–Golay Filtering` · `Signal Processing`
 
-**Deep Learning**
+**Models**
 
-- LSTM
-- GRU
-- BiLSTM
-- Multi-step prediction
+`LSTM` · `GRU` · `BiLSTM`
 
 **Research Direction**
 
-Physics-guided estimation through the **Swing Equation**, studied alongside data-driven deep-learning approaches.
-
-</details>
+Multi-step inertia prediction alongside physics-guided estimation using the **Swing Equation**.
 
 <br>
 
-<details>
-<summary><b>AI-Enabled Wearable System for Chronic Disease Monitoring</b> · Independent Research · Manuscript Complete</summary>
+### AI-Enabled Wearable System for Chronic Disease Monitoring
 
-<br>
+**Independent Research · Manuscript Complete**
 
-Designed an AI-enabled framework for **continuous physiological monitoring and health-risk assessment**.
+Designed a framework for **continuous physiological monitoring and health-risk assessment**.
 
-**Investigated**
+The research explores:
 
-- Abnormal physiological trend prediction
+- Physiological trend prediction
 - Early-warning systems
 - Multimodal sensing
 - Edge–cloud collaboration
@@ -159,29 +125,25 @@ Designed an AI-enabled framework for **continuous physiological monitoring and h
 - Explainable AI
 - Privacy-preserving learning
 
-The work explores how intelligent models can move from isolated prediction toward continuous, personalized health monitoring.
-
-</details>
-
 <br>
 
 ---
 
 <div align="center">
 
-## ENGINEERED SYSTEMS
+## SELECTED SYSTEMS
 
-<i>Selected projects where research meets physical or production-oriented systems.</i>
+<i>Where research concepts become engineered systems.</i>
 
 </div>
 
 <br>
 
-### 01 · Vision-Guided Laser QR Encoding
+### Vision-Guided Laser QR Encoding for Railway Track Components
 
-**Patent Filed** · Computer Vision · Semantic Segmentation · Embedded AI
+**Patent Filed · Computer Vision · Embedded AI**
 
-A railway inspection system combining **computer vision, semantic segmentation, geometric projection, and embedded physical control**.
+A railway inspection system combining semantic segmentation with physical laser positioning.
 
 ```text
 Camera
